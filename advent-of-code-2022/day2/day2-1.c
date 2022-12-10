@@ -22,7 +22,6 @@ int main(){
     char line_buffer[255];
     int score = 0;
     while(fgets(line_buffer, 255, input_file)){
-        //printf("%s", line_buffer);
         int x, y = -1;
         if(line_buffer[0] == 'A'){y=0;}
         else if(line_buffer[0] == 'B'){y=1;}
