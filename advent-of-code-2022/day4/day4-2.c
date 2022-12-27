@@ -31,7 +31,13 @@ int main(){
         split_str(elf2_l, elf2_r, elf_2_assignment, '-'); 
         count +=
             (atoi(elf1_l) >= atoi(elf2_l) && atoi(elf1_r) <= atoi(elf2_r)) ||
-            (atoi(elf2_l) >= atoi(elf1_l) && atoi(elf2_r) <= atoi(elf1_r));
+            (atoi(elf1_l) >= atoi(elf2_l) && atoi(elf1_l) <= atoi(elf2_r)) ||
+            (atoi(elf2_l) >= atoi(elf1_l) && atoi(elf2_r) <= atoi(elf1_r)) ||
+            (atoi(elf2_l) >= atoi(elf1_l) && atoi(elf2_l) <= atoi(elf1_r)) ||
+            (atoi(elf1_r) <= atoi(elf2_r) && atoi(elf1_r) >= atoi(elf2_r)) ||
+            (atoi(elf1_r) <= atoi(elf2_r) && atoi(elf1_l) >= atoi(elf2_r)) ||
+            (atoi(elf2_r) <= atoi(elf1_r) && atoi(elf2_r) >= atoi(elf1_r)) ||
+            (atoi(elf2_r) <= atoi(elf1_r) && atoi(elf2_l) >= atoi(elf1_r)) ;
     }
     printf("Containment count: %d\n", count);
     return 0;
