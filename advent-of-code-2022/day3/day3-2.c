@@ -5,15 +5,15 @@
 int main(){ 
     char* items = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
     FILE* input_file = fopen("day3-input.txt", "r");
-    char buf1[255], buf2[255], buf3[255]; 
+    char buf1[100], buf2[100], buf3[100]; 
     int item_sum = 0;
     size_t priority = 0;
     while(1){
         char matching_item = '-';
         if(
-            fgets(buf1, 255, input_file) && 
-            fgets(buf2, 255, input_file) && 
-            fgets(buf3, 255, input_file)){
+            fgets(buf1, 100, input_file) && 
+            fgets(buf2, 100, input_file) && 
+            fgets(buf3, 100, input_file)){
                 char* x, y, z;
                 for(char* i = buf1; *i !='\0'; i++){
                     for(char* j = buf2; *j != '\0'; j++){
