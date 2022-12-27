@@ -5,7 +5,6 @@
 int main(){ 
     char* items = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
     FILE* input_file = fopen("day3-input.txt", "r");
-   
     char buf1[255], buf2[255], buf3[255]; 
     int item_sum = 0;
     size_t priority = 0;
@@ -15,17 +14,16 @@ int main(){
             fgets(buf1, 255, input_file) && 
             fgets(buf2, 255, input_file) && 
             fgets(buf3, 255, input_file)){
-
-            for(int i=0; buf1[i] != '\0'; i++){
-                for(int j=0; buf2[j] != '\0'; j++){
-                    for(int k=0; buf3[k] != '\0'; k++){
-                        if(buf1[i] == buf2[j] && buf2[j] == buf3[k] && matching_item == '-'){
-                            matching_item = buf1[i];
+                char* x, y, z;
+                for(char* i = buf1; *i !='\0'; i++){
+                    for(char* j = buf2; *j != '\0'; j++){
+                        for(char* k = buf3; *k != '\0'; k++){
+                            if(*i == *j && *j == *k && matching_item == '-'){
+                                matching_item = *i;
+                            }
                         }
                     }
                 }
-
-            }
         } else {
             break;
         }
