@@ -42,6 +42,8 @@ int calculate_max_stack(FILE* input_file){
    _to the bottom_ of the stack. */
 void stack_add_during_init(char* stack, char add){
     char to_push[2] = {add, '\0'};
+    //memmove is memcpy, but with checks so that it works when the src and dest
+    //memory addresses overlap. I want to move stack in-place, so I need memmove.
     memmove(stack + 1, stack, strlen(stack) + 1);
     memcpy(stack, to_push, 1);
 }
