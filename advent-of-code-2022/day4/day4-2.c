@@ -5,7 +5,7 @@
 /**
     Split a string into two null terminated strings at (and excluding) delim.
 **/
-void split_str(char left[], char right[], char line[], char delim){
+void split_str(char* left, char* right, char* line, char delim){
     int line_len = strlen(line);
     char* split_loc = strchr(line, delim);
     int l = split_loc - line; 
