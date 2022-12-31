@@ -21,25 +21,23 @@ int main(){
         w[i] = ds_buffer[i];
     }
     int k = SOM_MARKER_SIZE;
-    int not_found=1;
+    int not_found;
     for(k; k < size; k++){
+        not_found = 0;
         printf("k=%d, current window: %s\n", k, w);
-        for(int i=0; i<SOM_MARKER_SIZE; i++){
+        for(int i=0; i < SOM_MARKER_SIZE; i++){
             for(int j=0; j < SOM_MARKER_SIZE; j++){
-                not_found = w[i] == w[j]; //doesnt quite work.
-                if(!not_found){
+                if(i != j && w[i] == w[j]){
+                    not_found = 1;
                     break;
                 }
             }
-            if(!not_found){
-                break;
-            }
         }
         if(not_found){
-            w[0] = w[1]; 
-            w[1] = w[2];
-            w[2] = w[3];
-            w[3] = (char)ds_buffer[k];
+            for(int i=0; i<SOM_MARKER_SIZE-1; i++){
+                w[i] = w[i+1];
+            }
+            w[SOM_MARKER_SIZE-1] = ds_buffer[k];
         }
         else break;
     }
