@@ -41,19 +41,32 @@ int main(){
     GHashTable* dir_sizes = g_hash_table_new(g_str_hash, g_str_equal);
     GList* path_parts = NULL;
     path_parts = g_list_append(path_parts, "/");
-    path_parts = g_list_append(path_parts, "derek/");
 
-    char* full_path = get_full_path(path_parts);
-
-    g_hash_table_insert(dir_sizes,full_path,25);
-    g_hash_table_insert(dir_sizes,"Mr Darcy","Treats");
-
-    printf("dir: %s \t size: %d\n",full_path, g_hash_table_lookup(dir_sizes,full_path));
-
-   while(fgets(line, BUFFER_SIZE, input_file)){
-
-
-
+    while(fgets(line, BUFFER_SIZE, input_file)){
+        printf("command: %s\n", line);
+        if(line[0] == '$'){
+            //if this is a directory change: 
+            if(line[2] == 'c'){
+                int dir_len = strlen(&line[5]) - 1;
+                char* dir = (char *)malloc(sizeof(char) * dir_len + 1);
+                dir[dir_len] = '/';
+                printf("dir_len: %d, ", dir_len);
+                strncpy(dir, &line[5], dir_len);
+                printf("subdir: %s\n", dir);
+                //if the change is to the parent of cwd:
+                if(!strcmp(dir, "//")){ 
+                    continue;
+                }
+                if(!strcmp(dir, "../")){
+                    path_parts = g_list_remove(path_parts, g_list_last(path_parts));
+                } 
+                //move to this directory
+                else { 
+                    path_parts = g_list_append(path_parts, dir);
+                    printf("current path: %s\n", get_full_path(path_parts));
+                }
+            }
+        }
     }
     g_hash_table_destroy(dir_sizes);
 
