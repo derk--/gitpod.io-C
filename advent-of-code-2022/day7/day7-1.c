@@ -10,13 +10,6 @@ struct dir {
     size_t dir_size; 
 };
 
-int compare_dir(gconstpointer dir_a, gconstpointer dir_b){
-    struct dir* a = (struct dir*)dir_a;
-    struct dir* b = (struct dir*)dir_b;
-
-    return strcmp(a->dir_path, b->dir_path);
-}
-
 char* get_full_path(GList* parts){
     int length = g_list_length(parts);
     int path_length = 0;
@@ -42,9 +35,11 @@ int main(){
     GList* path_parts = NULL;
     path_parts = g_list_append(path_parts, "/");
 
+    gboolean listing = FALSE;
     while(fgets(line, BUFFER_SIZE, input_file)){
         printf("command: %s\n", line);
         if(line[0] == '$'){
+            listing = FALSE;
             //if this is a directory change: 
             if(line[2] == 'c'){
                 int dir_len = strlen(&line[5]) - 1;
@@ -65,7 +60,13 @@ int main(){
                     path_parts = g_list_append(path_parts, dir);
                     printf("current path: %s\n", get_full_path(path_parts));
                 }
-            }
+            } 
+            listing = line[2] == 'l';
+        } 
+        else if(listing){
+            long size = strtol(line, NULL, 10);
+            printf("size: %ld\n", size);
+            g_hash_table_lookup()
         }
     }
     g_hash_table_destroy(dir_sizes);
