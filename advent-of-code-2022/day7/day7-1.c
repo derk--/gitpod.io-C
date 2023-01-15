@@ -33,7 +33,10 @@ char* get_full_path(GList* parts, int max){
 }
 
 static void print_size(gpointer key, gpointer value, gpointer user_data){
-    printf("size of %s is: %ld\n", (char *)key, (long)value);
+    long val = (long)value;
+    if(val > 0 && val <= 100000){
+        printf("size of %s is: %ld\n", (char *)key, (long)value);
+    }
 }
 
 int main(){
@@ -71,7 +74,6 @@ int main(){
                     path_parts = g_list_append(path_parts, dir);
                     //printf("current path: %s\n", get_full_path(path_parts, BUFFER_SIZE));
                 }
-                //free(dir);
             } 
             listing = line[2] == 'l';
         } 
@@ -81,14 +83,7 @@ int main(){
             char* dir_path = get_full_path(path_parts, BUFFER_SIZE);
             //add to listing size for all parents of this path too.. 
             int length = g_list_length(path_parts);
-            for(int i=0; i < length; i++){
-                char* partial_path = get_full_path(path_parts, i);
-                printf("pp: %s, size: ", partial_path);
-                long dir_size = (long) g_hash_table_lookup(dir_sizes, partial_path);
-                printf("%ld\n", dir_size);
-                g_hash_table_insert(dir_sizes, partial_path, dir_size + size);
-                //free(partial_path);
-            }
+            //TODO
             //and then add to this path. 
             printf("pp: %s, size: ", dir_path);
             long dir_size = (long) g_hash_table_lookup(dir_sizes, dir_path);
@@ -103,3 +98,19 @@ int main(){
     return 0;
    
 }
+
+/** This code corrupts memory
+for(int i=0; i < length; i++){
+                char* partial_path = get_full_path(path_parts, i);
+                printf("pp: %s, size: ", partial_path);
+                long dir_size = (long) g_hash_table_lookup(dir_sizes, partial_path);
+                printf("%ld\n", dir_size);
+                if(dir_size){
+                    g_hash_table_insert(dir_sizes, partial_path, dir_size + size);
+                } else { 
+                    g_hash_table_insert(dir_sizes, partial_path, size);
+                }
+                
+                //free(partial_path);
+            }
+            */
