@@ -3,7 +3,7 @@
 #include <string.h>
 #include <glib.h>
 
-#define BUFFER_SIZE 4096
+#define BUFFER_SIZE 8192
 #define INPUT_FILE "day7-input.txt"
 
 struct dir {
@@ -14,7 +14,8 @@ struct dir {
 /*
 Print the path represented by the GList parts.
 max < g_list_length(parts) means to return the partial path 
-max subdirectories down from the root.*/
+max subdirectories down from the root.
+*/
 char* get_full_path(GList* parts, int max){
     int length = g_list_length(parts);
     length = length >= max ? max : length;
@@ -22,12 +23,11 @@ char* get_full_path(GList* parts, int max){
     for(int i=0; i < length; i++){
         path_length += strlen(g_list_nth_data(parts, i));
     }
-    char* full_path = (char *)malloc(sizeof(char) * path_length);
+    printf("path_length: %d\n",path_length);
+    char* full_path = (char *)malloc(sizeof(*full_path) * (path_length + 1));
     for(int i=0; i < length; i++){
-        strncat(full_path, 
-                g_list_nth_data(parts, i), 
-                strlen(g_list_nth_data(parts, i))
-            );
+        char* part = g_list_nth_data(parts, i);
+        strncat(full_path, part, strlen(part) );
     }
     return full_path;
 }
@@ -35,7 +35,7 @@ char* get_full_path(GList* parts, int max){
 static void print_size(gpointer key, gpointer value, gpointer user_data){
     long val = (long)value;
     if(val > 0 && val <= 100000){
-        printf("size of %s is: %ld\n", (char *)key, (long)value);
+        printf("size of %s is: %ld\n", (gchar*)key, val);
     }
 }
 
@@ -56,9 +56,8 @@ int main(){
             //if this is a directory change: 
             if(line[2] == 'c'){
                 int dir_len = strlen(&line[5]) - 1;
-                char* dir = (char *)malloc(sizeof(char) * dir_len + 1);
+                char* dir = (char *)malloc(sizeof(char) * (dir_len + 1));
                 dir[dir_len] = '/';
-                printf("dir_len: %d, ", dir_len);
                 strncpy(dir, &line[5], dir_len);
                 printf("subdir: %s\n", dir);
                 //if the change is to the parent of cwd:
@@ -85,7 +84,7 @@ int main(){
             int length = g_list_length(path_parts);
             //TODO
             //and then add to this path. 
-            printf("pp: %s, size: ", dir_path);
+            //printf("pp: %s, size: ", dir_path);
             long dir_size = (long) g_hash_table_lookup(dir_sizes, dir_path);
             printf("%ld\n", dir_size);
             g_hash_table_insert(dir_sizes, dir_path, dir_size + size);
