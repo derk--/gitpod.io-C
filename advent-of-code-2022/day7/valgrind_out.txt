@@ -1,0 +1,5376 @@
+command: $ cd /
+
+dir_len: 1, subdir: //
+command: $ ls
+
+command: 282959 btm
+
+pp: , size: 0
+pp: /, size: 0
+command: dir fmfnpm
+
+pp: , size: 282959
+pp: /, size: 282959
+command: dir gwlwp
+
+pp: , size: 282959
+pp: /, size: 282959
+command: dir hchp
+
+pp: , size: 282959
+pp: /, size: 282959
+command: 275929 hmbbjbf
+
+pp: , size: 282959
+pp: /, size: 282959
+command: dir nsphznf
+
+pp: , size: 558888
+pp: /, size: 558888
+command: dir phschqg
+
+pp: , size: 558888
+pp: /, size: 558888
+command: 193293 rhpwvff
+
+pp: , size: 558888
+pp: /, size: 558888
+command: dir spfwthmd
+
+pp: , size: 752181
+pp: /, size: 752181
+command: dir wchdqb
+
+pp: , size: 752181
+pp: /, size: 752181
+command: dir zlpmfh
+
+pp: , size: 752181
+pp: /, size: 752181
+command: 191479 zlpmfh.gpt
+
+pp: , size: 752181
+pp: /, size: 752181
+command: $ cd fmfnpm
+
+dir_len: 6, subdir: fmfnpm/
+command: $ ls
+
+command: dir fgtqvq
+
+pp: , size: 943660
+pp: /, size: 943660
+pp: /fmfnpm/, size: 0
+command: 194704 fwdvgnqp.fsm
+
+pp: , size: 943660
+pp: /, size: 943660
+pp: /fmfnpm/, size: 0
+command: 48823 fwdwq.tsq
+
+pp: , size: 1138364
+pp: /, size: 1138364
+pp: /fmfnpm/, size: 194704
+command: 224991 mtjngt
+
+pp: , size: 1187187
+pp: /, size: 1187187
+pp: /fmfnpm/, size: 243527
+command: 79386 rdsgpfjb.sfn
+
+pp: , size: 1412178
+pp: /, size: 1412178
+pp: /fmfnpm/, size: 468518
+command: dir rvnwwfq
+
+pp: , size: 1491564
+pp: /, size: 1491564
+pp: /fmfnpm/, size: 547904
+command: dir wrzcjwc
+
+pp: , size: 1491564
+pp: /, size: 1491564
+pp: /fmfnpm/, size: 547904
+command: dir zlpmfh
+
+pp: , size: 1491564
+pp: /, size: 1491564
+pp: /fmfnpm/, size: 547904
+command: $ cd fgtqvq
+
+dir_len: 6, subdir: fgtqvq/
+command: $ ls
+
+command: 293783 rjc.ncl
+
+pp: , size: 1491564
+pp: /, size: 1491564
+pp: /fmfnpm/, size: 547904
+pp: /fmfnpm/fgtqvq/, size: 0
+command: 324635 wdjrhw
+
+pp: , size: 1785347
+pp: /, size: 1785347
+pp: /fmfnpm/, size: 841687
+pp: /fmfnpm/fgtqvq/, size: 293783
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd rvnwwfq
+
+dir_len: 7, subdir: rvnwwfq/
+command: $ ls
+
+command: 76914 btm
+
+pp: , size: 2109982
+pp: /, size: 2109982
+pp: /fmfnpm/, size: 1166322
+pp: /fmfnpm/rvnwwfq/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd wrzcjwc
+
+dir_len: 7, subdir: wrzcjwc/
+command: $ ls
+
+command: dir fwdwq
+
+pp: , size: 2186896
+pp: /, size: 2186896
+pp: /fmfnpm/, size: 1243236
+pp: /fmfnpm/wrzcjwc/, size: 0
+command: 2159 fzb.tjs
+
+pp: , size: 2186896
+pp: /, size: 2186896
+pp: /fmfnpm/, size: 1243236
+pp: /fmfnpm/wrzcjwc/, size: 0
+command: dir lddhdslh
+
+pp: , size: 2189055
+pp: /, size: 2189055
+pp: /fmfnpm/, size: 1245395
+pp: /fmfnpm/wrzcjwc/, size: 2159
+command: dir mjp
+
+pp: , size: 2189055
+pp: /, size: 2189055
+pp: /fmfnpm/, size: 1245395
+pp: /fmfnpm/wrzcjwc/, size: 2159
+command: 284475 vclnlds
+
+pp: , size: 2189055
+pp: /, size: 2189055
+pp: /fmfnpm/, size: 1245395
+pp: /fmfnpm/wrzcjwc/, size: 2159
+command: 196284 zjtftd
+
+pp: , size: 2473530
+pp: /, size: 2473530
+pp: /fmfnpm/, size: 1529870
+pp: /fmfnpm/wrzcjwc/, size: 286634
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 120795 jqnl.hzj
+
+pp: , size: 2669814
+pp: /, size: 2669814
+pp: /fmfnpm/, size: 1726154
+pp: /fmfnpm/wrzcjwc/, size: 482918
+pp: /fmfnpm/wrzcjwc/fwdwq/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd lddhdslh
+
+dir_len: 8, subdir: lddhdslh/
+command: $ ls
+
+command: 293030 fzb
+
+pp: , size: 2790609
+pp: /, size: 2790609
+pp: /fmfnpm/, size: 1846949
+pp: /fmfnpm/wrzcjwc/, size: 603713
+pp: /fmfnpm/wrzcjwc/lddhdslh/, size: 0
+command: dir gzj
+
+pp: , size: 3083639
+pp: /, size: 3083639
+pp: /fmfnpm/, size: 2139979
+pp: /fmfnpm/wrzcjwc/, size: 896743
+pp: /fmfnpm/wrzcjwc/lddhdslh/, size: 293030
+command: $ cd gzj
+
+dir_len: 3, subdir: gzj/
+command: $ ls
+
+command: dir qzgsswr
+
+pp: , size: 3083639
+pp: /, size: 3083639
+pp: /fmfnpm/, size: 2139979
+pp: /fmfnpm/wrzcjwc/, size: 896743
+pp: /fmfnpm/wrzcjwc/lddhdslh/, size: 293030
+pp: /fmfnpm/wrzcjwc/lddhdslh/gzj/, size: 0
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 33681 qzgsswr.wmv
+
+pp: , size: 3083639
+pp: /, size: 3083639
+pp: /fmfnpm/, size: 2139979
+pp: /fmfnpm/wrzcjwc/, size: 896743
+pp: /fmfnpm/wrzcjwc/lddhdslh/, size: 293030
+pp: /fmfnpm/wrzcjwc/lddhdslh/gzj/, size: 0
+pp: /fmfnpm/wrzcjwc/lddhdslh/gzj/qzgsswr/, size: 0
+command: 121649 sbjbw.shv
+
+pp: , size: 3117320
+pp: /, size: 3117320
+pp: /fmfnpm/, size: 2173660
+pp: /fmfnpm/wrzcjwc/, size: 930424
+pp: /fmfnpm/wrzcjwc/lddhdslh/, size: 326711
+pp: /fmfnpm/wrzcjwc/lddhdslh/gzj/, size: 33681
+pp: /fmfnpm/wrzcjwc/lddhdslh/gzj/qzgsswr/, size: 33681
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd mjp
+
+dir_len: 3, subdir: mjp/
+command: $ ls
+
+command: 289491 btm
+
+pp: , size: 3238969
+pp: /, size: 3238969
+pp: /fmfnpm/, size: 2295309
+pp: /fmfnpm/wrzcjwc/, size: 1052073
+pp: /fmfnpm/wrzcjwc/mjp/, size: 0
+command: 169221 jqnl.hzj
+
+pp: , size: 3528460
+pp: /, size: 3528460
+pp: /fmfnpm/, size: 2584800
+pp: /fmfnpm/wrzcjwc/, size: 1341564
+pp: /fmfnpm/wrzcjwc/mjp/, size: 289491
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: 189296 ldgpvnh
+
+pp: , size: 3697681
+pp: /, size: 3697681
+pp: /fmfnpm/, size: 2754021
+pp: /fmfnpm/zlpmfh/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd gwlwp
+
+dir_len: 5, subdir: gwlwp/
+command: $ ls
+
+command: dir dwcrnbj
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir fmfnpm
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir fwdwq
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir hzpsts
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir hzrq
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir jzwpjtf
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir lmmpmghg
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir mnw
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir qzgsswr
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: dir zlpmfh
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+command: $ cd dwcrnbj
+
+dir_len: 7, subdir: dwcrnbj/
+command: $ ls
+
+command: 182989 btm
+
+pp: , size: 3886977
+pp: /, size: 3886977
+pp: /gwlwp/, size: 0
+pp: /gwlwp/dwcrnbj/, size: 0
+command: 145822 fwdvgnqp.fsm
+
+pp: , size: 4069966
+pp: /, size: 4069966
+pp: /gwlwp/, size: 182989
+pp: /gwlwp/dwcrnbj/, size: 182989
+command: dir jbtfslcn
+
+pp: , size: 4215788
+pp: /, size: 4215788
+pp: /gwlwp/, size: 328811
+pp: /gwlwp/dwcrnbj/, size: 328811
+command: dir lgbglc
+
+pp: , size: 4215788
+pp: /, size: 4215788
+pp: /gwlwp/, size: 328811
+pp: /gwlwp/dwcrnbj/, size: 328811
+command: 293584 mfstl.hhp
+
+pp: , size: 4215788
+pp: /, size: 4215788
+pp: /gwlwp/, size: 328811
+pp: /gwlwp/dwcrnbj/, size: 328811
+command: dir sbffqq
+
+pp: , size: 4509372
+pp: /, size: 4509372
+pp: /gwlwp/, size: 622395
+pp: /gwlwp/dwcrnbj/, size: 622395
+command: dir zhvn
+
+pp: , size: 4509372
+pp: /, size: 4509372
+pp: /gwlwp/, size: 622395
+pp: /gwlwp/dwcrnbj/, size: 622395
+command: $ cd jbtfslcn
+
+dir_len: 8, subdir: jbtfslcn/
+command: $ ls
+
+command: 195255 sbjbw.shv
+
+pp: , size: 4509372
+pp: /, size: 4509372
+pp: /gwlwp/, size: 622395
+pp: /gwlwp/dwcrnbj/, size: 622395
+pp: /gwlwp/dwcrnbj/jbtfslcn/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd lgbglc
+
+dir_len: 6, subdir: lgbglc/
+command: $ ls
+
+command: 261423 fmfnpm.rqh
+
+pp: , size: 4704627
+pp: /, size: 4704627
+pp: /gwlwp/, size: 817650
+pp: /gwlwp/dwcrnbj/, size: 817650
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 0
+command: 323530 fzb.lmm
+
+pp: , size: 4966050
+pp: /, size: 4966050
+pp: /gwlwp/, size: 1079073
+pp: /gwlwp/dwcrnbj/, size: 1079073
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 261423
+command: 314800 hbl.blm
+
+pp: , size: 5289580
+pp: /, size: 5289580
+pp: /gwlwp/, size: 1402603
+pp: /gwlwp/dwcrnbj/, size: 1402603
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 584953
+command: 173052 lwpglgt
+
+pp: , size: 5604380
+pp: /, size: 5604380
+pp: /gwlwp/, size: 1717403
+pp: /gwlwp/dwcrnbj/, size: 1717403
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 899753
+command: dir qdpjss
+
+pp: , size: 5777432
+pp: /, size: 5777432
+pp: /gwlwp/, size: 1890455
+pp: /gwlwp/dwcrnbj/, size: 1890455
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 1072805
+command: 184808 zlpmfh.chl
+
+pp: , size: 5777432
+pp: /, size: 5777432
+pp: /gwlwp/, size: 1890455
+pp: /gwlwp/dwcrnbj/, size: 1890455
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 1072805
+command: $ cd qdpjss
+
+dir_len: 6, subdir: qdpjss/
+command: $ ls
+
+command: 83714 djsrhr.vch
+
+pp: , size: 5962240
+pp: /, size: 5962240
+pp: /gwlwp/, size: 2075263
+pp: /gwlwp/dwcrnbj/, size: 2075263
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 1257613
+pp: /gwlwp/dwcrnbj/lgbglc/qdpjss/, size: 0
+command: 68191 lqljcq.sdv
+
+pp: , size: 6045954
+pp: /, size: 6045954
+pp: /gwlwp/, size: 2158977
+pp: /gwlwp/dwcrnbj/, size: 2158977
+pp: /gwlwp/dwcrnbj/lgbglc/, size: 1341327
+pp: /gwlwp/dwcrnbj/lgbglc/qdpjss/, size: 83714
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd sbffqq
+
+dir_len: 6, subdir: sbffqq/
+command: $ ls
+
+command: 29842 fwdvgnqp.fsm
+
+pp: , size: 6114145
+pp: /, size: 6114145
+pp: /gwlwp/, size: 2227168
+pp: /gwlwp/dwcrnbj/, size: 2227168
+pp: /gwlwp/dwcrnbj/sbffqq/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zhvn
+
+dir_len: 4, subdir: zhvn/
+command: $ ls
+
+command: dir clpcg
+
+pp: , size: 6143987
+pp: /, size: 6143987
+pp: /gwlwp/, size: 2257010
+pp: /gwlwp/dwcrnbj/, size: 2257010
+pp: /gwlwp/dwcrnbj/zhvn/, size: 0
+command: dir gswvch
+
+pp: , size: 6143987
+pp: /, size: 6143987
+pp: /gwlwp/, size: 2257010
+pp: /gwlwp/dwcrnbj/, size: 2257010
+pp: /gwlwp/dwcrnbj/zhvn/, size: 0
+command: dir lgmfhnq
+
+pp: , size: 6143987
+pp: /, size: 6143987
+pp: /gwlwp/, size: 2257010
+pp: /gwlwp/dwcrnbj/, size: 2257010
+pp: /gwlwp/dwcrnbj/zhvn/, size: 0
+command: 184407 rlvprbs
+
+pp: , size: 6143987
+pp: /, size: 6143987
+pp: /gwlwp/, size: 2257010
+pp: /gwlwp/dwcrnbj/, size: 2257010
+pp: /gwlwp/dwcrnbj/zhvn/, size: 0
+command: 235779 rnh.dlv
+
+pp: , size: 6328394
+pp: /, size: 6328394
+pp: /gwlwp/, size: 2441417
+pp: /gwlwp/dwcrnbj/, size: 2441417
+pp: /gwlwp/dwcrnbj/zhvn/, size: 184407
+command: 99852 ttjtnj.gjs
+
+pp: , size: 6564173
+pp: /, size: 6564173
+pp: /gwlwp/, size: 2677196
+pp: /gwlwp/dwcrnbj/, size: 2677196
+pp: /gwlwp/dwcrnbj/zhvn/, size: 420186
+command: $ cd clpcg
+
+dir_len: 5, subdir: clpcg/
+command: $ ls
+
+command: 97780 fwdvgnqp.fsm
+
+pp: , size: 6664025
+pp: /, size: 6664025
+pp: /gwlwp/, size: 2777048
+pp: /gwlwp/dwcrnbj/, size: 2777048
+pp: /gwlwp/dwcrnbj/zhvn/, size: 520038
+pp: /gwlwp/dwcrnbj/zhvn/clpcg/, size: 0
+command: 201515 rth.rhm
+
+pp: , size: 6761805
+pp: /, size: 6761805
+pp: /gwlwp/, size: 2874828
+pp: /gwlwp/dwcrnbj/, size: 2874828
+pp: /gwlwp/dwcrnbj/zhvn/, size: 617818
+pp: /gwlwp/dwcrnbj/zhvn/clpcg/, size: 97780
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd gswvch
+
+dir_len: 6, subdir: gswvch/
+command: $ ls
+
+command: dir fzb
+
+pp: , size: 6963320
+pp: /, size: 6963320
+pp: /gwlwp/, size: 3076343
+pp: /gwlwp/dwcrnbj/, size: 3076343
+pp: /gwlwp/dwcrnbj/zhvn/, size: 819333
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/, size: 0
+command: dir mdrlrtl
+
+pp: , size: 6963320
+pp: /, size: 6963320
+pp: /gwlwp/, size: 3076343
+pp: /gwlwp/dwcrnbj/, size: 3076343
+pp: /gwlwp/dwcrnbj/zhvn/, size: 819333
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/, size: 0
+command: $ cd fzb
+
+dir_len: 3, subdir: fzb/
+command: $ ls
+
+command: dir qzgsswr
+
+pp: , size: 6963320
+pp: /, size: 6963320
+pp: /gwlwp/, size: 3076343
+pp: /gwlwp/dwcrnbj/, size: 3076343
+pp: /gwlwp/dwcrnbj/zhvn/, size: 819333
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/, size: 0
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/fzb/, size: 0
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 198805 jqnl.hzj
+
+pp: , size: 6963320
+pp: /, size: 6963320
+pp: /gwlwp/, size: 3076343
+pp: /gwlwp/dwcrnbj/, size: 3076343
+pp: /gwlwp/dwcrnbj/zhvn/, size: 819333
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/, size: 0
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/fzb/, size: 0
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/fzb/qzgsswr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd mdrlrtl
+
+dir_len: 7, subdir: mdrlrtl/
+command: $ ls
+
+command: 154648 spm.wvf
+
+pp: , size: 7162125
+pp: /, size: 7162125
+pp: /gwlwp/, size: 3275148
+pp: /gwlwp/dwcrnbj/, size: 3275148
+pp: /gwlwp/dwcrnbj/zhvn/, size: 1018138
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/, size: 198805
+pp: /gwlwp/dwcrnbj/zhvn/gswvch/mdrlrtl/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd lgmfhnq
+
+dir_len: 7, subdir: lgmfhnq/
+command: $ ls
+
+command: 303154 mjzw.tbq
+
+pp: , size: 7316773
+pp: /, size: 7316773
+pp: /gwlwp/, size: 3429796
+pp: /gwlwp/dwcrnbj/, size: 3429796
+pp: /gwlwp/dwcrnbj/zhvn/, size: 1172786
+pp: /gwlwp/dwcrnbj/zhvn/lgmfhnq/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fmfnpm
+
+dir_len: 6, subdir: fmfnpm/
+command: $ ls
+
+command: 134756 bdmdfvs.llm
+
+pp: , size: 7619927
+pp: /, size: 7619927
+pp: /gwlwp/, size: 3732950
+pp: /gwlwp/fmfnpm/, size: 0
+command: 228983 brfrv
+
+pp: , size: 7754683
+pp: /, size: 7754683
+pp: /gwlwp/, size: 3867706
+pp: /gwlwp/fmfnpm/, size: 134756
+command: dir fzb
+
+pp: , size: 7983666
+pp: /, size: 7983666
+pp: /gwlwp/, size: 4096689
+pp: /gwlwp/fmfnpm/, size: 363739
+command: 52921 mnfsltsj
+
+pp: , size: 7983666
+pp: /, size: 7983666
+pp: /gwlwp/, size: 4096689
+pp: /gwlwp/fmfnpm/, size: 363739
+command: 185748 sbjbw.shv
+
+pp: , size: 8036587
+pp: /, size: 8036587
+pp: /gwlwp/, size: 4149610
+pp: /gwlwp/fmfnpm/, size: 416660
+command: dir svtswb
+
+pp: , size: 8222335
+pp: /, size: 8222335
+pp: /gwlwp/, size: 4335358
+pp: /gwlwp/fmfnpm/, size: 602408
+command: $ cd fzb
+
+dir_len: 3, subdir: fzb/
+command: $ ls
+
+command: dir fzb
+
+pp: , size: 8222335
+pp: /, size: 8222335
+pp: /gwlwp/, size: 4335358
+pp: /gwlwp/fmfnpm/, size: 602408
+pp: /gwlwp/fmfnpm/fzb/, size: 0
+command: $ cd fzb
+
+dir_len: 3, subdir: fzb/
+command: $ ls
+
+command: dir gwtslbr
+
+pp: , size: 8222335
+pp: /, size: 8222335
+pp: /gwlwp/, size: 4335358
+pp: /gwlwp/fmfnpm/, size: 602408
+pp: /gwlwp/fmfnpm/fzb/, size: 0
+pp: /gwlwp/fmfnpm/fzb/fzb/, size: 0
+command: $ cd gwtslbr
+
+dir_len: 7, subdir: gwtslbr/
+command: $ ls
+
+command: 224479 fmfnpm.jqh
+
+pp: , size: 8222335
+pp: /, size: 8222335
+pp: /gwlwp/, size: 4335358
+pp: /gwlwp/fmfnpm/, size: 602408
+pp: /gwlwp/fmfnpm/fzb/, size: 0
+pp: /gwlwp/fmfnpm/fzb/fzb/, size: 0
+pp: /gwlwp/fmfnpm/fzb/fzb/gwtslbr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd svtswb
+
+dir_len: 6, subdir: svtswb/
+command: $ ls
+
+command: dir fmfnpm
+
+pp: , size: 8446814
+pp: /, size: 8446814
+pp: /gwlwp/, size: 4559837
+pp: /gwlwp/fmfnpm/, size: 826887
+pp: /gwlwp/fmfnpm/svtswb/, size: 0
+command: 55122 fmfnpm.fdl
+
+pp: , size: 8446814
+pp: /, size: 8446814
+pp: /gwlwp/, size: 4559837
+pp: /gwlwp/fmfnpm/, size: 826887
+pp: /gwlwp/fmfnpm/svtswb/, size: 0
+command: dir msfd
+
+pp: , size: 8501936
+pp: /, size: 8501936
+pp: /gwlwp/, size: 4614959
+pp: /gwlwp/fmfnpm/, size: 882009
+pp: /gwlwp/fmfnpm/svtswb/, size: 55122
+command: 30710 rtfwvd.fch
+
+pp: , size: 8501936
+pp: /, size: 8501936
+pp: /gwlwp/, size: 4614959
+pp: /gwlwp/fmfnpm/, size: 882009
+pp: /gwlwp/fmfnpm/svtswb/, size: 55122
+command: 71950 vnwvdmcm.pbz
+
+pp: , size: 8532646
+pp: /, size: 8532646
+pp: /gwlwp/, size: 4645669
+pp: /gwlwp/fmfnpm/, size: 912719
+pp: /gwlwp/fmfnpm/svtswb/, size: 85832
+command: $ cd fmfnpm
+
+dir_len: 6, subdir: fmfnpm/
+command: $ ls
+
+command: 318326 rtv.jgn
+
+pp: , size: 8604596
+pp: /, size: 8604596
+pp: /gwlwp/, size: 4717619
+pp: /gwlwp/fmfnpm/, size: 984669
+pp: /gwlwp/fmfnpm/svtswb/, size: 157782
+pp: /gwlwp/fmfnpm/svtswb/fmfnpm/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd msfd
+
+dir_len: 4, subdir: msfd/
+command: $ ls
+
+command: 86195 jqnl.hzj
+
+pp: , size: 8922922
+pp: /, size: 8922922
+pp: /gwlwp/, size: 5035945
+pp: /gwlwp/fmfnpm/, size: 1302995
+pp: /gwlwp/fmfnpm/svtswb/, size: 476108
+pp: /gwlwp/fmfnpm/svtswb/msfd/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 203108 fzb
+
+pp: , size: 9009117
+pp: /, size: 9009117
+pp: /gwlwp/, size: 5122140
+pp: /gwlwp/fwdwq/, size: 0
+command: 72579 gcjd.nvp
+
+pp: , size: 9212225
+pp: /, size: 9212225
+pp: /gwlwp/, size: 5325248
+pp: /gwlwp/fwdwq/, size: 203108
+command: dir hjfpn
+
+pp: , size: 9284804
+pp: /, size: 9284804
+pp: /gwlwp/, size: 5397827
+pp: /gwlwp/fwdwq/, size: 275687
+command: dir qbhn
+
+pp: , size: 9284804
+pp: /, size: 9284804
+pp: /gwlwp/, size: 5397827
+pp: /gwlwp/fwdwq/, size: 275687
+command: dir qbnfrhdn
+
+pp: , size: 9284804
+pp: /, size: 9284804
+pp: /gwlwp/, size: 5397827
+pp: /gwlwp/fwdwq/, size: 275687
+command: 310102 wbdhc
+
+pp: , size: 9284804
+pp: /, size: 9284804
+pp: /gwlwp/, size: 5397827
+pp: /gwlwp/fwdwq/, size: 275687
+command: 248602 wgdmvslc.ffs
+
+pp: , size: 9594906
+pp: /, size: 9594906
+pp: /gwlwp/, size: 5707929
+pp: /gwlwp/fwdwq/, size: 585789
+command: 140513 znrlqvmb.thj
+
+pp: , size: 9843508
+pp: /, size: 9843508
+pp: /gwlwp/, size: 5956531
+pp: /gwlwp/fwdwq/, size: 834391
+command: dir ztf
+
+pp: , size: 9984021
+pp: /, size: 9984021
+pp: /gwlwp/, size: 6097044
+pp: /gwlwp/fwdwq/, size: 974904
+command: $ cd hjfpn
+
+dir_len: 5, subdir: hjfpn/
+command: $ ls
+
+command: dir tfdt
+
+pp: , size: 9984021
+pp: /, size: 9984021
+pp: /gwlwp/, size: 6097044
+pp: /gwlwp/fwdwq/, size: 974904
+pp: /gwlwp/fwdwq/hjfpn/, size: 0
+command: $ cd tfdt
+
+dir_len: 4, subdir: tfdt/
+command: $ ls
+
+command: 202865 chvfjrgz.rdm
+
+pp: , size: 9984021
+pp: /, size: 9984021
+pp: /gwlwp/, size: 6097044
+pp: /gwlwp/fwdwq/, size: 974904
+pp: /gwlwp/fwdwq/hjfpn/, size: 0
+pp: /gwlwp/fwdwq/hjfpn/tfdt/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qbhn
+
+dir_len: 4, subdir: qbhn/
+command: $ ls
+
+command: 34122 fmfnpm
+
+pp: , size: 10186886
+pp: /, size: 10186886
+pp: /gwlwp/, size: 6299909
+pp: /gwlwp/fwdwq/, size: 1177769
+pp: /gwlwp/fwdwq/qbhn/, size: 0
+command: 19676 gfbt.nnc
+
+pp: , size: 10221008
+pp: /, size: 10221008
+pp: /gwlwp/, size: 6334031
+pp: /gwlwp/fwdwq/, size: 1211891
+pp: /gwlwp/fwdwq/qbhn/, size: 34122
+command: dir hgdgbrw
+
+pp: , size: 10240684
+pp: /, size: 10240684
+pp: /gwlwp/, size: 6353707
+pp: /gwlwp/fwdwq/, size: 1231567
+pp: /gwlwp/fwdwq/qbhn/, size: 53798
+command: dir jlztdcl
+
+pp: , size: 10240684
+pp: /, size: 10240684
+pp: /gwlwp/, size: 6353707
+pp: /gwlwp/fwdwq/, size: 1231567
+pp: /gwlwp/fwdwq/qbhn/, size: 53798
+command: 93203 jqnl.hzj
+
+pp: , size: 10240684
+pp: /, size: 10240684
+pp: /gwlwp/, size: 6353707
+pp: /gwlwp/fwdwq/, size: 1231567
+pp: /gwlwp/fwdwq/qbhn/, size: 53798
+command: dir ppcqqtlj
+
+pp: , size: 10333887
+pp: /, size: 10333887
+pp: /gwlwp/, size: 6446910
+pp: /gwlwp/fwdwq/, size: 1324770
+pp: /gwlwp/fwdwq/qbhn/, size: 147001
+command: 167401 qzgsswr
+
+pp: , size: 10333887
+pp: /, size: 10333887
+pp: /gwlwp/, size: 6446910
+pp: /gwlwp/fwdwq/, size: 1324770
+pp: /gwlwp/fwdwq/qbhn/, size: 147001
+command: $ cd hgdgbrw
+
+dir_len: 7, subdir: hgdgbrw/
+command: $ ls
+
+command: 25297 fzb.vlp
+
+pp: , size: 10501288
+pp: /, size: 10501288
+pp: /gwlwp/, size: 6614311
+pp: /gwlwp/fwdwq/, size: 1492171
+pp: /gwlwp/fwdwq/qbhn/, size: 314402
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/, size: 0
+command: dir nbl
+
+pp: , size: 10526585
+pp: /, size: 10526585
+pp: /gwlwp/, size: 6639608
+pp: /gwlwp/fwdwq/, size: 1517468
+pp: /gwlwp/fwdwq/qbhn/, size: 339699
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/, size: 25297
+command: $ cd nbl
+
+dir_len: 3, subdir: nbl/
+command: $ ls
+
+command: dir czpfqbp
+
+pp: , size: 10526585
+pp: /, size: 10526585
+pp: /gwlwp/, size: 6639608
+pp: /gwlwp/fwdwq/, size: 1517468
+pp: /gwlwp/fwdwq/qbhn/, size: 339699
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/, size: 25297
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/, size: 0
+command: dir fwdwq
+
+pp: , size: 10526585
+pp: /, size: 10526585
+pp: /gwlwp/, size: 6639608
+pp: /gwlwp/fwdwq/, size: 1517468
+pp: /gwlwp/fwdwq/qbhn/, size: 339699
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/, size: 25297
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/, size: 0
+command: $ cd czpfqbp
+
+dir_len: 7, subdir: czpfqbp/
+command: $ ls
+
+command: 135628 fzb.tqn
+
+pp: , size: 10526585
+pp: /, size: 10526585
+pp: /gwlwp/, size: 6639608
+pp: /gwlwp/fwdwq/, size: 1517468
+pp: /gwlwp/fwdwq/qbhn/, size: 339699
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/, size: 25297
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/, size: 0
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/czpfqbp/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 165198 lrgpwnvv
+
+pp: , size: 10662213
+pp: /, size: 10662213
+pp: /gwlwp/, size: 6775236
+pp: /gwlwp/fwdwq/, size: 1653096
+pp: /gwlwp/fwdwq/qbhn/, size: 475327
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/, size: 160925
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/, size: 135628
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/fwdwq/, size: 0
+command: 280597 mcmcn
+
+pp: , size: 10827411
+pp: /, size: 10827411
+pp: /gwlwp/, size: 6940434
+pp: /gwlwp/fwdwq/, size: 1818294
+pp: /gwlwp/fwdwq/qbhn/, size: 640525
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/, size: 326123
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/, size: 300826
+pp: /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/fwdwq/, size: 165198
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd jlztdcl
+
+dir_len: 7, subdir: jlztdcl/
+command: $ ls
+
+command: 188181 bzgzvfjv
+
+pp: , size: 11108008
+pp: /, size: 11108008
+pp: /gwlwp/, size: 7221031
+pp: /gwlwp/fwdwq/, size: 2098891
+pp: /gwlwp/fwdwq/qbhn/, size: 921122
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 0
+command: 116603 fwdvgnqp.fsm
+
+pp: , size: 11296189
+pp: /, size: 11296189
+pp: /gwlwp/, size: 7409212
+pp: /gwlwp/fwdwq/, size: 2287072
+pp: /gwlwp/fwdwq/qbhn/, size: 1109303
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 188181
+command: dir fwdwq
+
+pp: , size: 11412792
+pp: /, size: 11412792
+pp: /gwlwp/, size: 7525815
+pp: /gwlwp/fwdwq/, size: 2403675
+pp: /gwlwp/fwdwq/qbhn/, size: 1225906
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 304784
+command: 277728 fzb
+
+pp: , size: 11412792
+pp: /, size: 11412792
+pp: /gwlwp/, size: 7525815
+pp: /gwlwp/fwdwq/, size: 2403675
+pp: /gwlwp/fwdwq/qbhn/, size: 1225906
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 304784
+command: 63999 zfrvp.ppd
+
+pp: , size: 11690520
+pp: /, size: 11690520
+pp: /gwlwp/, size: 7803543
+pp: /gwlwp/fwdwq/, size: 2681403
+pp: /gwlwp/fwdwq/qbhn/, size: 1503634
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 582512
+command: 281623 zgpwjbc.wcj
+
+pp: , size: 11754519
+pp: /, size: 11754519
+pp: /gwlwp/, size: 7867542
+pp: /gwlwp/fwdwq/, size: 2745402
+pp: /gwlwp/fwdwq/qbhn/, size: 1567633
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 646511
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: dir bpt
+
+pp: , size: 12036142
+pp: /, size: 12036142
+pp: /gwlwp/, size: 8149165
+pp: /gwlwp/fwdwq/, size: 3027025
+pp: /gwlwp/fwdwq/qbhn/, size: 1849256
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 928134
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 0
+command: dir fmrmm
+
+pp: , size: 12036142
+pp: /, size: 12036142
+pp: /gwlwp/, size: 8149165
+pp: /gwlwp/fwdwq/, size: 3027025
+pp: /gwlwp/fwdwq/qbhn/, size: 1849256
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 928134
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 0
+command: dir fzb
+
+pp: , size: 12036142
+pp: /, size: 12036142
+pp: /gwlwp/, size: 8149165
+pp: /gwlwp/fwdwq/, size: 3027025
+pp: /gwlwp/fwdwq/qbhn/, size: 1849256
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 928134
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 0
+command: dir qzgsswr
+
+pp: , size: 12036142
+pp: /, size: 12036142
+pp: /gwlwp/, size: 8149165
+pp: /gwlwp/fwdwq/, size: 3027025
+pp: /gwlwp/fwdwq/qbhn/, size: 1849256
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 928134
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 0
+command: $ cd bpt
+
+dir_len: 3, subdir: bpt/
+command: $ ls
+
+command: 179418 dhwvhq
+
+pp: , size: 12036142
+pp: /, size: 12036142
+pp: /gwlwp/, size: 8149165
+pp: /gwlwp/fwdwq/, size: 3027025
+pp: /gwlwp/fwdwq/qbhn/, size: 1849256
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 928134
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 0
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/bpt/, size: 0
+command: 313538 njnhmgg
+
+pp: , size: 12215560
+pp: /, size: 12215560
+pp: /gwlwp/, size: 8328583
+pp: /gwlwp/fwdwq/, size: 3206443
+pp: /gwlwp/fwdwq/qbhn/, size: 2028674
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 1107552
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 179418
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/bpt/, size: 179418
+command: 28613 rjc.ncl
+
+pp: , size: 12529098
+pp: /, size: 12529098
+pp: /gwlwp/, size: 8642121
+pp: /gwlwp/fwdwq/, size: 3519981
+pp: /gwlwp/fwdwq/qbhn/, size: 2342212
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 1421090
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 492956
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/bpt/, size: 492956
+command: 267053 sbjbw.shv
+
+pp: , size: 12557711
+pp: /, size: 12557711
+pp: /gwlwp/, size: 8670734
+pp: /gwlwp/fwdwq/, size: 3548594
+pp: /gwlwp/fwdwq/qbhn/, size: 2370825
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 1449703
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 521569
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/bpt/, size: 521569
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fmrmm
+
+dir_len: 5, subdir: fmrmm/
+command: $ ls
+
+command: 258044 fmfnpm
+
+pp: , size: 12824764
+pp: /, size: 12824764
+pp: /gwlwp/, size: 8937787
+pp: /gwlwp/fwdwq/, size: 3815647
+pp: /gwlwp/fwdwq/qbhn/, size: 2637878
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 1716756
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 788622
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/, size: 0
+command: 120035 qcgrnqf.flz
+
+pp: , size: 13082808
+pp: /, size: 13082808
+pp: /gwlwp/, size: 9195831
+pp: /gwlwp/fwdwq/, size: 4073691
+pp: /gwlwp/fwdwq/qbhn/, size: 2895922
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 1974800
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 1046666
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/, size: 258044
+command: 141340 rjc.ncl
+
+pp: , size: 13202843
+pp: /, size: 13202843
+pp: /gwlwp/, size: 9315866
+pp: /gwlwp/fwdwq/, size: 4193726
+pp: /gwlwp/fwdwq/qbhn/, size: 3015957
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 2094835
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 1166701
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/, size: 378079
+command: dir sps
+
+pp: , size: 13344183
+pp: /, size: 13344183
+pp: /gwlwp/, size: 9457206
+pp: /gwlwp/fwdwq/, size: 4335066
+pp: /gwlwp/fwdwq/qbhn/, size: 3157297
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 2236175
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 1308041
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/, size: 519419
+command: $ cd sps
+
+dir_len: 3, subdir: sps/
+command: $ ls
+
+command: dir sphjrrvc
+
+pp: , size: 13344183
+pp: /, size: 13344183
+pp: /gwlwp/, size: 9457206
+pp: /gwlwp/fwdwq/, size: 4335066
+pp: /gwlwp/fwdwq/qbhn/, size: 3157297
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 2236175
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 1308041
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/, size: 519419
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/sps/, size: 0
+command: $ cd sphjrrvc
+
+dir_len: 8, subdir: sphjrrvc/
+command: $ ls
+
+command: 152609 cwjwbp
+
+pp: , size: 13344183
+pp: /, size: 13344183
+pp: /gwlwp/, size: 9457206
+pp: /gwlwp/fwdwq/, size: 4335066
+pp: /gwlwp/fwdwq/qbhn/, size: 3157297
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 2236175
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 1308041
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/, size: 519419
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/sps/, size: 0
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/sps/sphjrrvc/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fzb
+
+dir_len: 3, subdir: fzb/
+command: $ ls
+
+command: 99140 btm
+
+pp: , size: 13496792
+pp: /, size: 13496792
+pp: /gwlwp/, size: 9609815
+pp: /gwlwp/fwdwq/, size: 4487675
+pp: /gwlwp/fwdwq/qbhn/, size: 3309906
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 2388784
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 1460650
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fzb/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 25030 cjdltcj.wsw
+
+pp: , size: 13595932
+pp: /, size: 13595932
+pp: /gwlwp/, size: 9708955
+pp: /gwlwp/fwdwq/, size: 4586815
+pp: /gwlwp/fwdwq/qbhn/, size: 3409046
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/, size: 2487924
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/, size: 1559790
+pp: /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/qzgsswr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ppcqqtlj
+
+dir_len: 8, subdir: ppcqqtlj/
+command: $ ls
+
+command: 39010 zcmf.jll
+
+pp: , size: 13620962
+pp: /, size: 13620962
+pp: /gwlwp/, size: 9733985
+pp: /gwlwp/fwdwq/, size: 4611845
+pp: /gwlwp/fwdwq/qbhn/, size: 3434076
+pp: /gwlwp/fwdwq/qbhn/ppcqqtlj/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qbnfrhdn
+
+dir_len: 8, subdir: qbnfrhdn/
+command: $ ls
+
+command: 282601 cdw.mfn
+
+pp: , size: 13659972
+pp: /, size: 13659972
+pp: /gwlwp/, size: 9772995
+pp: /gwlwp/fwdwq/, size: 4650855
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 0
+command: dir fwdwq
+
+pp: , size: 13942573
+pp: /, size: 13942573
+pp: /gwlwp/, size: 10055596
+pp: /gwlwp/fwdwq/, size: 4933456
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 282601
+command: 121557 pnqzb.njr
+
+pp: , size: 13942573
+pp: /, size: 13942573
+pp: /gwlwp/, size: 10055596
+pp: /gwlwp/fwdwq/, size: 4933456
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 282601
+command: 145720 wznfpcn.qhp
+
+pp: , size: 14064130
+pp: /, size: 14064130
+pp: /gwlwp/, size: 10177153
+pp: /gwlwp/fwdwq/, size: 5055013
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 404158
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 152478 fwdvgnqp.fsm
+
+pp: , size: 14209850
+pp: /, size: 14209850
+pp: /gwlwp/, size: 10322873
+pp: /gwlwp/fwdwq/, size: 5200733
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 549878
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 0
+command: dir fwdwq
+
+pp: , size: 14362328
+pp: /, size: 14362328
+pp: /gwlwp/, size: 10475351
+pp: /gwlwp/fwdwq/, size: 5353211
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 702356
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 152478
+command: dir hhnf
+
+pp: , size: 14362328
+pp: /, size: 14362328
+pp: /gwlwp/, size: 10475351
+pp: /gwlwp/fwdwq/, size: 5353211
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 702356
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 152478
+command: 301797 hngcrd.hgt
+
+pp: , size: 14362328
+pp: /, size: 14362328
+pp: /gwlwp/, size: 10475351
+pp: /gwlwp/fwdwq/, size: 5353211
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 702356
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 152478
+command: dir hpj
+
+pp: , size: 14664125
+pp: /, size: 14664125
+pp: /gwlwp/, size: 10777148
+pp: /gwlwp/fwdwq/, size: 5655008
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1004153
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 454275
+command: dir qzgsswr
+
+pp: , size: 14664125
+pp: /, size: 14664125
+pp: /gwlwp/, size: 10777148
+pp: /gwlwp/fwdwq/, size: 5655008
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1004153
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 454275
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: dir cdb
+
+pp: , size: 14664125
+pp: /, size: 14664125
+pp: /gwlwp/, size: 10777148
+pp: /gwlwp/fwdwq/, size: 5655008
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1004153
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 454275
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/, size: 0
+command: 69663 fmfnpm
+
+pp: , size: 14664125
+pp: /, size: 14664125
+pp: /gwlwp/, size: 10777148
+pp: /gwlwp/fwdwq/, size: 5655008
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1004153
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 454275
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/, size: 0
+command: 97882 fwdvgnqp.fsm
+
+pp: , size: 14733788
+pp: /, size: 14733788
+pp: /gwlwp/, size: 10846811
+pp: /gwlwp/fwdwq/, size: 5724671
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1073816
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 523938
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/, size: 69663
+command: 61057 hlg.zhq
+
+pp: , size: 14831670
+pp: /, size: 14831670
+pp: /gwlwp/, size: 10944693
+pp: /gwlwp/fwdwq/, size: 5822553
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1171698
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 621820
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/, size: 167545
+command: 115474 rzv.vjv
+
+pp: , size: 14892727
+pp: /, size: 14892727
+pp: /gwlwp/, size: 11005750
+pp: /gwlwp/fwdwq/, size: 5883610
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1232755
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 682877
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/, size: 228602
+command: $ cd cdb
+
+dir_len: 3, subdir: cdb/
+command: $ ls
+
+command: 193519 djwqhfg.mhl
+
+pp: , size: 15008201
+pp: /, size: 15008201
+pp: /gwlwp/, size: 11121224
+pp: /gwlwp/fwdwq/, size: 5999084
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1348229
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 798351
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/, size: 344076
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/cdb/, size: 0
+command: 255813 zptj.cgm
+
+pp: , size: 15201720
+pp: /, size: 15201720
+pp: /gwlwp/, size: 11314743
+pp: /gwlwp/fwdwq/, size: 6192603
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1541748
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 991870
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/, size: 537595
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/cdb/, size: 193519
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd hhnf
+
+dir_len: 4, subdir: hhnf/
+command: $ ls
+
+command: dir cpzrh
+
+pp: , size: 15457533
+pp: /, size: 15457533
+pp: /gwlwp/, size: 11570556
+pp: /gwlwp/fwdwq/, size: 6448416
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1797561
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1247683
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hhnf/, size: 0
+command: $ cd cpzrh
+
+dir_len: 5, subdir: cpzrh/
+command: $ ls
+
+command: 167401 fwdvgnqp.fsm
+
+pp: , size: 15457533
+pp: /, size: 15457533
+pp: /gwlwp/, size: 11570556
+pp: /gwlwp/fwdwq/, size: 6448416
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1797561
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1247683
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hhnf/, size: 0
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hhnf/cpzrh/, size: 0
+command: 224559 jqnl.hzj
+
+pp: , size: 15624934
+pp: /, size: 15624934
+pp: /gwlwp/, size: 11737957
+pp: /gwlwp/fwdwq/, size: 6615817
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 1964962
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1415084
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hhnf/, size: 167401
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hhnf/cpzrh/, size: 167401
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd hpj
+
+dir_len: 3, subdir: hpj/
+command: $ ls
+
+command: dir spqljpnt
+
+pp: , size: 15849493
+pp: /, size: 15849493
+pp: /gwlwp/, size: 11962516
+pp: /gwlwp/fwdwq/, size: 6840376
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2189521
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1639643
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hpj/, size: 0
+command: $ cd spqljpnt
+
+dir_len: 8, subdir: spqljpnt/
+command: $ ls
+
+command: 268253 fjvqzqt.lmz
+
+pp: , size: 15849493
+pp: /, size: 15849493
+pp: /gwlwp/, size: 11962516
+pp: /gwlwp/fwdwq/, size: 6840376
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2189521
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1639643
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hpj/, size: 0
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hpj/spqljpnt/, size: 0
+command: 63824 lfdrvlc.pww
+
+pp: , size: 16117746
+pp: /, size: 16117746
+pp: /gwlwp/, size: 12230769
+pp: /gwlwp/fwdwq/, size: 7108629
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2457774
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1907896
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hpj/, size: 268253
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/hpj/spqljpnt/, size: 268253
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: dir fwdwq
+
+pp: , size: 16181570
+pp: /, size: 16181570
+pp: /gwlwp/, size: 12294593
+pp: /gwlwp/fwdwq/, size: 7172453
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2521598
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1971720
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 0
+command: dir hwnmf
+
+pp: , size: 16181570
+pp: /, size: 16181570
+pp: /gwlwp/, size: 12294593
+pp: /gwlwp/fwdwq/, size: 7172453
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2521598
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1971720
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 0
+command: dir rbjpbm
+
+pp: , size: 16181570
+pp: /, size: 16181570
+pp: /gwlwp/, size: 12294593
+pp: /gwlwp/fwdwq/, size: 7172453
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2521598
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1971720
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 0
+command: dir vhstcbnf
+
+pp: , size: 16181570
+pp: /, size: 16181570
+pp: /gwlwp/, size: 12294593
+pp: /gwlwp/fwdwq/, size: 7172453
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2521598
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1971720
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 0
+command: dir zflfcnw
+
+pp: , size: 16181570
+pp: /, size: 16181570
+pp: /gwlwp/, size: 12294593
+pp: /gwlwp/fwdwq/, size: 7172453
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2521598
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1971720
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 0
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 29113 ctr.zjl
+
+pp: , size: 16181570
+pp: /, size: 16181570
+pp: /gwlwp/, size: 12294593
+pp: /gwlwp/fwdwq/, size: 7172453
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2521598
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 1971720
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 0
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/fwdwq/, size: 0
+command: 130931 jqnl.hzj
+
+pp: , size: 16210683
+pp: /, size: 16210683
+pp: /gwlwp/, size: 12323706
+pp: /gwlwp/fwdwq/, size: 7201566
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2550711
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2000833
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 29113
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/fwdwq/, size: 29113
+command: 111025 zlpmfh
+
+pp: , size: 16341614
+pp: /, size: 16341614
+pp: /gwlwp/, size: 12454637
+pp: /gwlwp/fwdwq/, size: 7332497
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2681642
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2131764
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 160044
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/fwdwq/, size: 160044
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd hwnmf
+
+dir_len: 5, subdir: hwnmf/
+command: $ ls
+
+command: dir dspbm
+
+pp: , size: 16452639
+pp: /, size: 16452639
+pp: /gwlwp/, size: 12565662
+pp: /gwlwp/fwdwq/, size: 7443522
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2792667
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2242789
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 271069
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 0
+command: 260735 fwdwq.qwg
+
+pp: , size: 16452639
+pp: /, size: 16452639
+pp: /gwlwp/, size: 12565662
+pp: /gwlwp/fwdwq/, size: 7443522
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 2792667
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2242789
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 271069
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 0
+command: 297937 fzb
+
+pp: , size: 16713374
+pp: /, size: 16713374
+pp: /gwlwp/, size: 12826397
+pp: /gwlwp/fwdwq/, size: 7704257
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3053402
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2503524
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 531804
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 260735
+command: 45087 fzb.drv
+
+pp: , size: 17011311
+pp: /, size: 17011311
+pp: /gwlwp/, size: 13124334
+pp: /gwlwp/fwdwq/, size: 8002194
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3351339
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2801461
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 829741
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 558672
+command: 19946 jqnl.hzj
+
+pp: , size: 17056398
+pp: /, size: 17056398
+pp: /gwlwp/, size: 13169421
+pp: /gwlwp/fwdwq/, size: 8047281
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3396426
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2846548
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 874828
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 603759
+command: 51617 nqt.wpr
+
+pp: , size: 17076344
+pp: /, size: 17076344
+pp: /gwlwp/, size: 13189367
+pp: /gwlwp/fwdwq/, size: 8067227
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3416372
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2866494
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 894774
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 623705
+command: $ cd dspbm
+
+dir_len: 5, subdir: dspbm/
+command: $ ls
+
+command: 29361 btm
+
+pp: , size: 17127961
+pp: /, size: 17127961
+pp: /gwlwp/, size: 13240984
+pp: /gwlwp/fwdwq/, size: 8118844
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3467989
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2918111
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 946391
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 675322
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/dspbm/, size: 0
+command: dir fng
+
+pp: , size: 17157322
+pp: /, size: 17157322
+pp: /gwlwp/, size: 13270345
+pp: /gwlwp/fwdwq/, size: 8148205
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3497350
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2947472
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 975752
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 704683
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/dspbm/, size: 29361
+command: 127536 lspft.twz
+
+pp: , size: 17157322
+pp: /, size: 17157322
+pp: /gwlwp/, size: 13270345
+pp: /gwlwp/fwdwq/, size: 8148205
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3497350
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 2947472
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 975752
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 704683
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/dspbm/, size: 29361
+command: $ cd fng
+
+dir_len: 3, subdir: fng/
+command: $ ls
+
+command: 47261 rjc.ncl
+
+pp: , size: 17284858
+pp: /, size: 17284858
+pp: /gwlwp/, size: 13397881
+pp: /gwlwp/fwdwq/, size: 8275741
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3624886
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3075008
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1103288
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/, size: 832219
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/dspbm/, size: 156897
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/dspbm/fng/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd rbjpbm
+
+dir_len: 6, subdir: rbjpbm/
+command: $ ls
+
+command: 135665 cgfsvqf
+
+pp: , size: 17332119
+pp: /, size: 17332119
+pp: /gwlwp/, size: 13445142
+pp: /gwlwp/fwdwq/, size: 8323002
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3672147
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3122269
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1150549
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 0
+command: dir dbppcf
+
+pp: , size: 17467784
+pp: /, size: 17467784
+pp: /gwlwp/, size: 13580807
+pp: /gwlwp/fwdwq/, size: 8458667
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3807812
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3257934
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1286214
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 135665
+command: 259879 fwdvgnqp.fsm
+
+pp: , size: 17467784
+pp: /, size: 17467784
+pp: /gwlwp/, size: 13580807
+pp: /gwlwp/fwdwq/, size: 8458667
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 3807812
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3257934
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1286214
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 135665
+command: 143467 qrssbjm.wbh
+
+pp: , size: 17727663
+pp: /, size: 17727663
+pp: /gwlwp/, size: 13840686
+pp: /gwlwp/fwdwq/, size: 8718546
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4067691
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3517813
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1546093
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 395544
+command: dir rgvvmf
+
+pp: , size: 17871130
+pp: /, size: 17871130
+pp: /gwlwp/, size: 13984153
+pp: /gwlwp/fwdwq/, size: 8862013
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4211158
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3661280
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1689560
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 539011
+command: dir trtgj
+
+pp: , size: 17871130
+pp: /, size: 17871130
+pp: /gwlwp/, size: 13984153
+pp: /gwlwp/fwdwq/, size: 8862013
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4211158
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3661280
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1689560
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 539011
+command: $ cd dbppcf
+
+dir_len: 6, subdir: dbppcf/
+command: $ ls
+
+command: 72276 jqnl.hzj
+
+pp: , size: 17871130
+pp: /, size: 17871130
+pp: /gwlwp/, size: 13984153
+pp: /gwlwp/fwdwq/, size: 8862013
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4211158
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3661280
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1689560
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 539011
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/dbppcf/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd rgvvmf
+
+dir_len: 6, subdir: rgvvmf/
+command: $ ls
+
+command: dir zhldtfj
+
+pp: , size: 17943406
+pp: /, size: 17943406
+pp: /gwlwp/, size: 14056429
+pp: /gwlwp/fwdwq/, size: 8934289
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4283434
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3733556
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1761836
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 611287
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/rgvvmf/, size: 0
+command: $ cd zhldtfj
+
+dir_len: 7, subdir: zhldtfj/
+command: $ ls
+
+command: 248448 hflnwgj
+
+pp: , size: 17943406
+pp: /, size: 17943406
+pp: /gwlwp/, size: 14056429
+pp: /gwlwp/fwdwq/, size: 8934289
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4283434
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3733556
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 1761836
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 611287
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/rgvvmf/, size: 0
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/rgvvmf/zhldtfj/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd trtgj
+
+dir_len: 5, subdir: trtgj/
+command: $ ls
+
+command: 94714 flfhzc
+
+pp: , size: 18191854
+pp: /, size: 18191854
+pp: /gwlwp/, size: 14304877
+pp: /gwlwp/fwdwq/, size: 9182737
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4531882
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 3982004
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 2010284
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 859735
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/trtgj/, size: 0
+command: 137893 qqdrglf.rbp
+
+pp: , size: 18286568
+pp: /, size: 18286568
+pp: /gwlwp/, size: 14399591
+pp: /gwlwp/fwdwq/, size: 9277451
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4626596
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4076718
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 2104998
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 954449
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/trtgj/, size: 94714
+command: 306051 rggqwl
+
+pp: , size: 18424461
+pp: /, size: 18424461
+pp: /gwlwp/, size: 14537484
+pp: /gwlwp/fwdwq/, size: 9415344
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 4764489
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4214611
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 2242891
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/, size: 1092342
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/trtgj/, size: 232607
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd vhstcbnf
+
+dir_len: 8, subdir: vhstcbnf/
+command: $ ls
+
+command: 142465 btm
+
+pp: , size: 18730512
+pp: /, size: 18730512
+pp: /gwlwp/, size: 14843535
+pp: /gwlwp/fwdwq/, size: 9721395
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5070540
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4520662
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 2548942
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 0
+command: dir fcpwqj
+
+pp: , size: 18872977
+pp: /, size: 18872977
+pp: /gwlwp/, size: 14986000
+pp: /gwlwp/fwdwq/, size: 9863860
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5213005
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4663127
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 2691407
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 142465
+command: dir fzb
+
+pp: , size: 18872977
+pp: /, size: 18872977
+pp: /gwlwp/, size: 14986000
+pp: /gwlwp/fwdwq/, size: 9863860
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5213005
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4663127
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 2691407
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 142465
+command: 310858 jmfsz
+
+pp: , size: 18872977
+pp: /, size: 18872977
+pp: /gwlwp/, size: 14986000
+pp: /gwlwp/fwdwq/, size: 9863860
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5213005
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4663127
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 2691407
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 142465
+command: dir mjjcsbcn
+
+pp: , size: 19183835
+pp: /, size: 19183835
+pp: /gwlwp/, size: 15296858
+pp: /gwlwp/fwdwq/, size: 10174718
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5523863
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4973985
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3002265
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 453323
+command: 223040 qfnwth.lwq
+
+pp: , size: 19183835
+pp: /, size: 19183835
+pp: /gwlwp/, size: 15296858
+pp: /gwlwp/fwdwq/, size: 10174718
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5523863
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 4973985
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3002265
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 453323
+command: dir qjfwzdn
+
+pp: , size: 19406875
+pp: /, size: 19406875
+pp: /gwlwp/, size: 15519898
+pp: /gwlwp/fwdwq/, size: 10397758
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5746903
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5197025
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3225305
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 676363
+command: dir qzgsswr
+
+pp: , size: 19406875
+pp: /, size: 19406875
+pp: /gwlwp/, size: 15519898
+pp: /gwlwp/fwdwq/, size: 10397758
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5746903
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5197025
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3225305
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 676363
+command: 156837 rjc.ncl
+
+pp: , size: 19406875
+pp: /, size: 19406875
+pp: /gwlwp/, size: 15519898
+pp: /gwlwp/fwdwq/, size: 10397758
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5746903
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5197025
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3225305
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 676363
+command: 244544 tvsfmpc.nhz
+
+pp: , size: 19563712
+pp: /, size: 19563712
+pp: /gwlwp/, size: 15676735
+pp: /gwlwp/fwdwq/, size: 10554595
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 5903740
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5353862
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3382142
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 833200
+command: $ cd fcpwqj
+
+dir_len: 6, subdir: fcpwqj/
+command: $ ls
+
+command: 75022 thrdj.vnw
+
+pp: , size: 19808256
+pp: /, size: 19808256
+pp: /gwlwp/, size: 15921279
+pp: /gwlwp/fwdwq/, size: 10799139
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6148284
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5598406
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3626686
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1077744
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/fcpwqj/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fzb
+
+dir_len: 3, subdir: fzb/
+command: $ ls
+
+command: 206638 rjc.ncl
+
+pp: , size: 19883278
+pp: /, size: 19883278
+pp: /gwlwp/, size: 15996301
+pp: /gwlwp/fwdwq/, size: 10874161
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6223306
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5673428
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3701708
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1152766
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/fzb/, size: 0
+command: 20614 vnq.sfp
+
+pp: , size: 20089916
+pp: /, size: 20089916
+pp: /gwlwp/, size: 16202939
+pp: /gwlwp/fwdwq/, size: 11080799
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6429944
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5880066
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3908346
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1359404
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/fzb/, size: 206638
+command: 277785 zpfjd.vgr
+
+pp: , size: 20110530
+pp: /, size: 20110530
+pp: /gwlwp/, size: 16223553
+pp: /gwlwp/fwdwq/, size: 11101413
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6450558
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 5900680
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 3928960
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1380018
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/fzb/, size: 227252
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd mjjcsbcn
+
+dir_len: 8, subdir: mjjcsbcn/
+command: $ ls
+
+command: 22117 cscpb.tpw
+
+pp: , size: 20388315
+pp: /, size: 20388315
+pp: /gwlwp/, size: 16501338
+pp: /gwlwp/fwdwq/, size: 11379198
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6728343
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6178465
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4206745
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1657803
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/mjjcsbcn/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qjfwzdn
+
+dir_len: 7, subdir: qjfwzdn/
+command: $ ls
+
+command: 124990 qzgsswr.pdw
+
+pp: , size: 20410432
+pp: /, size: 20410432
+pp: /gwlwp/, size: 16523455
+pp: /gwlwp/fwdwq/, size: 11401315
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6750460
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6200582
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4228862
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1679920
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qjfwzdn/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: dir chptwpbh
+
+pp: , size: 20535422
+pp: /, size: 20535422
+pp: /gwlwp/, size: 16648445
+pp: /gwlwp/fwdwq/, size: 11526305
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6875450
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6325572
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4353852
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1804910
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 0
+command: dir fwdwq
+
+pp: , size: 20535422
+pp: /, size: 20535422
+pp: /gwlwp/, size: 16648445
+pp: /gwlwp/fwdwq/, size: 11526305
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6875450
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6325572
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4353852
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1804910
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 0
+command: 305061 htbcc.dbl
+
+pp: , size: 20535422
+pp: /, size: 20535422
+pp: /gwlwp/, size: 16648445
+pp: /gwlwp/fwdwq/, size: 11526305
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 6875450
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6325572
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4353852
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 1804910
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 0
+command: 22511 jqnl.hzj
+
+pp: , size: 20840483
+pp: /, size: 20840483
+pp: /gwlwp/, size: 16953506
+pp: /gwlwp/fwdwq/, size: 11831366
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 7180511
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6630633
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4658913
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 2109971
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 305061
+command: 80135 svvdgvsw
+
+pp: , size: 20862994
+pp: /, size: 20862994
+pp: /gwlwp/, size: 16976017
+pp: /gwlwp/fwdwq/, size: 11853877
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 7203022
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6653144
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4681424
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 2132482
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 327572
+command: dir vqtnpbn
+
+pp: , size: 20943129
+pp: /, size: 20943129
+pp: /gwlwp/, size: 17056152
+pp: /gwlwp/fwdwq/, size: 11934012
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 7283157
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6733279
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4761559
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 2212617
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 407707
+command: $ cd chptwpbh
+
+dir_len: 8, subdir: chptwpbh/
+command: $ ls
+
+command: 55085 fdhzfd.vbl
+
+pp: , size: 20943129
+pp: /, size: 20943129
+pp: /gwlwp/, size: 17056152
+pp: /gwlwp/fwdwq/, size: 11934012
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 7283157
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6733279
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4761559
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 2212617
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 407707
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/chptwpbh/, size: 0
+command: 324100 mcbr.jtn
+
+pp: , size: 20998214
+pp: /, size: 20998214
+pp: /gwlwp/, size: 17111237
+pp: /gwlwp/fwdwq/, size: 11989097
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 7338242
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 6788364
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 4816644
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 2267702
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 462792
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/chptwpbh/, size: 55085
+command: 148699 rtlmz.lvp
+
+pp: , size: 21322314
+pp: /, size: 21322314
+pp: /gwlwp/, size: 17435337
+pp: /gwlwp/fwdwq/, size: 12313197
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 7662342
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 7112464
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 5140744
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 2591802
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 786892
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/chptwpbh/, size: 379185
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 321251 qbqjp.cvs
+
+pp: , size: 21471013
+pp: /, size: 21471013
+pp: /gwlwp/, size: 17584036
+pp: /gwlwp/fwdwq/, size: 12461896
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 7811041
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 7261163
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 5289443
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 2740501
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 935591
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/fwdwq/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd vqtnpbn
+
+dir_len: 7, subdir: vqtnpbn/
+command: $ ls
+
+command: 211984 btm
+
+pp: , size: 21792264
+pp: /, size: 21792264
+pp: /gwlwp/, size: 17905287
+pp: /gwlwp/fwdwq/, size: 12783147
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 8132292
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 7582414
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 5610694
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 3061752
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 1256842
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/vqtnpbn/, size: 0
+command: 181182 fwdwq.nsg
+
+pp: , size: 22004248
+pp: /, size: 22004248
+pp: /gwlwp/, size: 18117271
+pp: /gwlwp/fwdwq/, size: 12995131
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 8344276
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 7794398
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 5822678
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 3273736
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 1468826
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/vqtnpbn/, size: 211984
+command: 212415 lnqbtt.fvs
+
+pp: , size: 22185430
+pp: /, size: 22185430
+pp: /gwlwp/, size: 18298453
+pp: /gwlwp/fwdwq/, size: 13176313
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 8525458
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 7975580
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 6003860
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/, size: 3454918
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/, size: 1650008
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/vqtnpbn/, size: 393166
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zflfcnw
+
+dir_len: 7, subdir: zflfcnw/
+command: $ ls
+
+command: 183836 jqnl.hzj
+
+pp: , size: 22397845
+pp: /, size: 22397845
+pp: /gwlwp/, size: 18510868
+pp: /gwlwp/fwdwq/, size: 13388728
+pp: /gwlwp/fwdwq/qbnfrhdn/, size: 8737873
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/, size: 8187995
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/, size: 6216275
+pp: /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/zflfcnw/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ztf
+
+dir_len: 3, subdir: ztf/
+command: $ ls
+
+command: dir vrj
+
+pp: , size: 22581681
+pp: /, size: 22581681
+pp: /gwlwp/, size: 18694704
+pp: /gwlwp/fwdwq/, size: 13572564
+pp: /gwlwp/fwdwq/ztf/, size: 0
+command: $ cd vrj
+
+dir_len: 3, subdir: vrj/
+command: $ ls
+
+command: dir fmfnpm
+
+pp: , size: 22581681
+pp: /, size: 22581681
+pp: /gwlwp/, size: 18694704
+pp: /gwlwp/fwdwq/, size: 13572564
+pp: /gwlwp/fwdwq/ztf/, size: 0
+pp: /gwlwp/fwdwq/ztf/vrj/, size: 0
+command: dir jqmcczl
+
+pp: , size: 22581681
+pp: /, size: 22581681
+pp: /gwlwp/, size: 18694704
+pp: /gwlwp/fwdwq/, size: 13572564
+pp: /gwlwp/fwdwq/ztf/, size: 0
+pp: /gwlwp/fwdwq/ztf/vrj/, size: 0
+command: $ cd fmfnpm
+
+dir_len: 6, subdir: fmfnpm/
+command: $ ls
+
+command: 52873 sbjbw.shv
+
+pp: , size: 22581681
+pp: /, size: 22581681
+pp: /gwlwp/, size: 18694704
+pp: /gwlwp/fwdwq/, size: 13572564
+pp: /gwlwp/fwdwq/ztf/, size: 0
+pp: /gwlwp/fwdwq/ztf/vrj/, size: 0
+pp: /gwlwp/fwdwq/ztf/vrj/fmfnpm/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd jqmcczl
+
+dir_len: 7, subdir: jqmcczl/
+command: $ ls
+
+command: 153695 sbjbw.shv
+
+pp: , size: 22634554
+pp: /, size: 22634554
+pp: /gwlwp/, size: 18747577
+pp: /gwlwp/fwdwq/, size: 13625437
+pp: /gwlwp/fwdwq/ztf/, size: 52873
+pp: /gwlwp/fwdwq/ztf/vrj/, size: 52873
+pp: /gwlwp/fwdwq/ztf/vrj/jqmcczl/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd hzpsts
+
+dir_len: 6, subdir: hzpsts/
+command: $ ls
+
+command: dir dsqsfqv
+
+pp: , size: 22788249
+pp: /, size: 22788249
+pp: /gwlwp/, size: 18901272
+pp: /gwlwp/hzpsts/, size: 0
+command: 51518 fmfnpm.bhn
+
+pp: , size: 22788249
+pp: /, size: 22788249
+pp: /gwlwp/, size: 18901272
+pp: /gwlwp/hzpsts/, size: 0
+command: dir fszpc
+
+pp: , size: 22839767
+pp: /, size: 22839767
+pp: /gwlwp/, size: 18952790
+pp: /gwlwp/hzpsts/, size: 51518
+command: dir fwdwq
+
+pp: , size: 22839767
+pp: /, size: 22839767
+pp: /gwlwp/, size: 18952790
+pp: /gwlwp/hzpsts/, size: 51518
+command: dir vrhcvmn
+
+pp: , size: 22839767
+pp: /, size: 22839767
+pp: /gwlwp/, size: 18952790
+pp: /gwlwp/hzpsts/, size: 51518
+command: $ cd dsqsfqv
+
+dir_len: 7, subdir: dsqsfqv/
+command: $ ls
+
+command: 221801 hqjwts
+
+pp: , size: 22839767
+pp: /, size: 22839767
+pp: /gwlwp/, size: 18952790
+pp: /gwlwp/hzpsts/, size: 51518
+pp: /gwlwp/hzpsts/dsqsfqv/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fszpc
+
+dir_len: 5, subdir: fszpc/
+command: $ ls
+
+command: dir lrtsfgg
+
+pp: , size: 23061568
+pp: /, size: 23061568
+pp: /gwlwp/, size: 19174591
+pp: /gwlwp/hzpsts/, size: 273319
+pp: /gwlwp/hzpsts/fszpc/, size: 0
+command: dir nndsvglm
+
+pp: , size: 23061568
+pp: /, size: 23061568
+pp: /gwlwp/, size: 19174591
+pp: /gwlwp/hzpsts/, size: 273319
+pp: /gwlwp/hzpsts/fszpc/, size: 0
+command: $ cd lrtsfgg
+
+dir_len: 7, subdir: lrtsfgg/
+command: $ ls
+
+command: 316171 lhl.jwm
+
+pp: , size: 23061568
+pp: /, size: 23061568
+pp: /gwlwp/, size: 19174591
+pp: /gwlwp/hzpsts/, size: 273319
+pp: /gwlwp/hzpsts/fszpc/, size: 0
+pp: /gwlwp/hzpsts/fszpc/lrtsfgg/, size: 0
+command: dir qhph
+
+pp: , size: 23377739
+pp: /, size: 23377739
+pp: /gwlwp/, size: 19490762
+pp: /gwlwp/hzpsts/, size: 589490
+pp: /gwlwp/hzpsts/fszpc/, size: 316171
+pp: /gwlwp/hzpsts/fszpc/lrtsfgg/, size: 316171
+command: 193371 zbttt.rmd
+
+pp: , size: 23377739
+pp: /, size: 23377739
+pp: /gwlwp/, size: 19490762
+pp: /gwlwp/hzpsts/, size: 589490
+pp: /gwlwp/hzpsts/fszpc/, size: 316171
+pp: /gwlwp/hzpsts/fszpc/lrtsfgg/, size: 316171
+command: $ cd qhph
+
+dir_len: 4, subdir: qhph/
+command: $ ls
+
+command: 71851 zqswjnp.tnc
+
+pp: , size: 23571110
+pp: /, size: 23571110
+pp: /gwlwp/, size: 19684133
+pp: /gwlwp/hzpsts/, size: 782861
+pp: /gwlwp/hzpsts/fszpc/, size: 509542
+pp: /gwlwp/hzpsts/fszpc/lrtsfgg/, size: 509542
+pp: /gwlwp/hzpsts/fszpc/lrtsfgg/qhph/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd nndsvglm
+
+dir_len: 8, subdir: nndsvglm/
+command: $ ls
+
+command: 5209 ddjgsmsm.rhv
+
+pp: , size: 23642961
+pp: /, size: 23642961
+pp: /gwlwp/, size: 19755984
+pp: /gwlwp/hzpsts/, size: 854712
+pp: /gwlwp/hzpsts/fszpc/, size: 581393
+pp: /gwlwp/hzpsts/fszpc/nndsvglm/, size: 0
+command: dir qzgsswr
+
+pp: , size: 23648170
+pp: /, size: 23648170
+pp: /gwlwp/, size: 19761193
+pp: /gwlwp/hzpsts/, size: 859921
+pp: /gwlwp/hzpsts/fszpc/, size: 586602
+pp: /gwlwp/hzpsts/fszpc/nndsvglm/, size: 5209
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 313591 flmfc.pbn
+
+pp: , size: 23648170
+pp: /, size: 23648170
+pp: /gwlwp/, size: 19761193
+pp: /gwlwp/hzpsts/, size: 859921
+pp: /gwlwp/hzpsts/fszpc/, size: 586602
+pp: /gwlwp/hzpsts/fszpc/nndsvglm/, size: 5209
+pp: /gwlwp/hzpsts/fszpc/nndsvglm/qzgsswr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 134971 fmfnpm.rcs
+
+pp: , size: 23961761
+pp: /, size: 23961761
+pp: /gwlwp/, size: 20074784
+pp: /gwlwp/hzpsts/, size: 1173512
+pp: /gwlwp/hzpsts/fwdwq/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd vrhcvmn
+
+dir_len: 7, subdir: vrhcvmn/
+command: $ ls
+
+command: 95237 fzb.zqw
+
+pp: , size: 24096732
+pp: /, size: 24096732
+pp: /gwlwp/, size: 20209755
+pp: /gwlwp/hzpsts/, size: 1308483
+pp: /gwlwp/hzpsts/vrhcvmn/, size: 0
+command: 147520 qzgsswr
+
+pp: , size: 24191969
+pp: /, size: 24191969
+pp: /gwlwp/, size: 20304992
+pp: /gwlwp/hzpsts/, size: 1403720
+pp: /gwlwp/hzpsts/vrhcvmn/, size: 95237
+command: dir zrnsdljf
+
+pp: , size: 24339489
+pp: /, size: 24339489
+pp: /gwlwp/, size: 20452512
+pp: /gwlwp/hzpsts/, size: 1551240
+pp: /gwlwp/hzpsts/vrhcvmn/, size: 242757
+command: $ cd zrnsdljf
+
+dir_len: 8, subdir: zrnsdljf/
+command: $ ls
+
+command: 120643 sbjbw.shv
+
+pp: , size: 24339489
+pp: /, size: 24339489
+pp: /gwlwp/, size: 20452512
+pp: /gwlwp/hzpsts/, size: 1551240
+pp: /gwlwp/hzpsts/vrhcvmn/, size: 242757
+pp: /gwlwp/hzpsts/vrhcvmn/zrnsdljf/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd hzrq
+
+dir_len: 4, subdir: hzrq/
+command: $ ls
+
+command: 177154 fwdvgnqp.fsm
+
+pp: , size: 24460132
+pp: /, size: 24460132
+pp: /gwlwp/, size: 20573155
+pp: /gwlwp/hzrq/, size: 0
+command: 127561 fwdwq.hcd
+
+pp: , size: 24637286
+pp: /, size: 24637286
+pp: /gwlwp/, size: 20750309
+pp: /gwlwp/hzrq/, size: 177154
+command: dir vqt
+
+pp: , size: 24764847
+pp: /, size: 24764847
+pp: /gwlwp/, size: 20877870
+pp: /gwlwp/hzrq/, size: 304715
+command: $ cd vqt
+
+dir_len: 3, subdir: vqt/
+command: $ ls
+
+command: 148546 fwdvgnqp.fsm
+
+pp: , size: 24764847
+pp: /, size: 24764847
+pp: /gwlwp/, size: 20877870
+pp: /gwlwp/hzrq/, size: 304715
+pp: /gwlwp/hzrq/vqt/, size: 0
+command: 108391 rjc.ncl
+
+pp: , size: 24913393
+pp: /, size: 24913393
+pp: /gwlwp/, size: 21026416
+pp: /gwlwp/hzrq/, size: 453261
+pp: /gwlwp/hzrq/vqt/, size: 148546
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd jzwpjtf
+
+dir_len: 7, subdir: jzwpjtf/
+command: $ ls
+
+command: 46687 fwdwq
+
+pp: , size: 25021784
+pp: /, size: 25021784
+pp: /gwlwp/, size: 21134807
+pp: /gwlwp/jzwpjtf/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd lmmpmghg
+
+dir_len: 8, subdir: lmmpmghg/
+command: $ ls
+
+command: dir fwdwq
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+command: dir snqlc
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+command: dir trtpbbs
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+command: dir zlpmfh
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: dir dzfmw
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 0
+command: dir fmfnpm
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 0
+command: dir qgdjz
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 0
+command: dir qzgsswr
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 0
+command: 102754 qzgsswr.wns
+
+pp: , size: 25068471
+pp: /, size: 25068471
+pp: /gwlwp/, size: 21181494
+pp: /gwlwp/lmmpmghg/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 0
+command: $ cd dzfmw
+
+dir_len: 5, subdir: dzfmw/
+command: $ ls
+
+command: 77275 fmfnpm.qgg
+
+pp: , size: 25171225
+pp: /, size: 25171225
+pp: /gwlwp/, size: 21284248
+pp: /gwlwp/lmmpmghg/, size: 102754
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 102754
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 0
+command: dir fwdwq
+
+pp: , size: 25248500
+pp: /, size: 25248500
+pp: /gwlwp/, size: 21361523
+pp: /gwlwp/lmmpmghg/, size: 180029
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 180029
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 77275
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 132030 fwdvgnqp.fsm
+
+pp: , size: 25248500
+pp: /, size: 25248500
+pp: /gwlwp/, size: 21361523
+pp: /gwlwp/lmmpmghg/, size: 180029
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 180029
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 77275
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 0
+command: 311894 jgvg.lgb
+
+pp: , size: 25380530
+pp: /, size: 25380530
+pp: /gwlwp/, size: 21493553
+pp: /gwlwp/lmmpmghg/, size: 312059
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 312059
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 209305
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 132030
+command: dir mbqw
+
+pp: , size: 25692424
+pp: /, size: 25692424
+pp: /gwlwp/, size: 21805447
+pp: /gwlwp/lmmpmghg/, size: 623953
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 623953
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 521199
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 443924
+command: 309968 pwv
+
+pp: , size: 25692424
+pp: /, size: 25692424
+pp: /gwlwp/, size: 21805447
+pp: /gwlwp/lmmpmghg/, size: 623953
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 623953
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 521199
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 443924
+command: 185449 qzgsswr.nrz
+
+pp: , size: 26002392
+pp: /, size: 26002392
+pp: /gwlwp/, size: 22115415
+pp: /gwlwp/lmmpmghg/, size: 933921
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 933921
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 831167
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 753892
+command: 283317 sbjbw.shv
+
+pp: , size: 26187841
+pp: /, size: 26187841
+pp: /gwlwp/, size: 22300864
+pp: /gwlwp/lmmpmghg/, size: 1119370
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 1119370
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 1016616
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 939341
+command: dir zlpmfh
+
+pp: , size: 26471158
+pp: /, size: 26471158
+pp: /gwlwp/, size: 22584181
+pp: /gwlwp/lmmpmghg/, size: 1402687
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 1402687
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 1299933
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 1222658
+command: $ cd mbqw
+
+dir_len: 4, subdir: mbqw/
+command: $ ls
+
+command: 292344 fwdwq.sfb
+
+pp: , size: 26471158
+pp: /, size: 26471158
+pp: /gwlwp/, size: 22584181
+pp: /gwlwp/lmmpmghg/, size: 1402687
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 1402687
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 1299933
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 1222658
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/mbqw/, size: 0
+command: 43979 sbjbw.shv
+
+pp: , size: 26763502
+pp: /, size: 26763502
+pp: /gwlwp/, size: 22876525
+pp: /gwlwp/lmmpmghg/, size: 1695031
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 1695031
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 1592277
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 1515002
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/mbqw/, size: 292344
+command: dir stmb
+
+pp: , size: 26807481
+pp: /, size: 26807481
+pp: /gwlwp/, size: 22920504
+pp: /gwlwp/lmmpmghg/, size: 1739010
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 1739010
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 1636256
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 1558981
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/mbqw/, size: 336323
+command: $ cd stmb
+
+dir_len: 4, subdir: stmb/
+command: $ ls
+
+command: 164954 fwdwq.gtn
+
+pp: , size: 26807481
+pp: /, size: 26807481
+pp: /gwlwp/, size: 22920504
+pp: /gwlwp/lmmpmghg/, size: 1739010
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 1739010
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 1636256
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 1558981
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/mbqw/, size: 336323
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/mbqw/stmb/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: 248119 jqnl.hzj
+
+pp: , size: 26972435
+pp: /, size: 26972435
+pp: /gwlwp/, size: 23085458
+pp: /gwlwp/lmmpmghg/, size: 1903964
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 1903964
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/, size: 1801210
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/, size: 1723935
+pp: /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/zlpmfh/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fmfnpm
+
+dir_len: 6, subdir: fmfnpm/
+command: $ ls
+
+command: 306459 wrscv
+
+pp: , size: 27220554
+pp: /, size: 27220554
+pp: /gwlwp/, size: 23333577
+pp: /gwlwp/lmmpmghg/, size: 2152083
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2152083
+pp: /gwlwp/lmmpmghg/fwdwq/fmfnpm/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qgdjz
+
+dir_len: 5, subdir: qgdjz/
+command: $ ls
+
+command: dir llb
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+command: dir pstmbbv
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+command: dir qth
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+command: dir qzgsswr
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+command: dir rqbmzrh
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+command: dir ssqj
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+command: $ cd llb
+
+dir_len: 3, subdir: llb/
+command: $ ls
+
+command: dir fmfnpm
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/llb/, size: 0
+command: 8728 rjc.ncl
+
+pp: , size: 27527013
+pp: /, size: 27527013
+pp: /gwlwp/, size: 23640036
+pp: /gwlwp/lmmpmghg/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2458542
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/llb/, size: 0
+command: 95783 sbjbw.shv
+
+pp: , size: 27535741
+pp: /, size: 27535741
+pp: /gwlwp/, size: 23648764
+pp: /gwlwp/lmmpmghg/, size: 2467270
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2467270
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 8728
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/llb/, size: 8728
+command: $ cd fmfnpm
+
+dir_len: 6, subdir: fmfnpm/
+command: $ ls
+
+command: 266355 ddfzzh
+
+pp: , size: 27631524
+pp: /, size: 27631524
+pp: /gwlwp/, size: 23744547
+pp: /gwlwp/lmmpmghg/, size: 2563053
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2563053
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 104511
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/llb/, size: 104511
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/llb/fmfnpm/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd pstmbbv
+
+dir_len: 7, subdir: pstmbbv/
+command: $ ls
+
+command: 303042 fnj.vsr
+
+pp: , size: 27897879
+pp: /, size: 27897879
+pp: /gwlwp/, size: 24010902
+pp: /gwlwp/lmmpmghg/, size: 2829408
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 2829408
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 370866
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/pstmbbv/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qth
+
+dir_len: 3, subdir: qth/
+command: $ ls
+
+command: 155353 chqshnhb.sdm
+
+pp: , size: 28200921
+pp: /, size: 28200921
+pp: /gwlwp/, size: 24313944
+pp: /gwlwp/lmmpmghg/, size: 3132450
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 3132450
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 673908
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/qth/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 155632 zlpmfh.dhp
+
+pp: , size: 28356274
+pp: /, size: 28356274
+pp: /gwlwp/, size: 24469297
+pp: /gwlwp/lmmpmghg/, size: 3287803
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 3287803
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 829261
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/qzgsswr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd rqbmzrh
+
+dir_len: 7, subdir: rqbmzrh/
+command: $ ls
+
+command: 202692 rjc.ncl
+
+pp: , size: 28511906
+pp: /, size: 28511906
+pp: /gwlwp/, size: 24624929
+pp: /gwlwp/lmmpmghg/, size: 3443435
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 3443435
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 984893
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/rqbmzrh/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ssqj
+
+dir_len: 4, subdir: ssqj/
+command: $ ls
+
+command: dir gffp
+
+pp: , size: 28714598
+pp: /, size: 28714598
+pp: /gwlwp/, size: 24827621
+pp: /gwlwp/lmmpmghg/, size: 3646127
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 3646127
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 1187585
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/ssqj/, size: 0
+command: $ cd gffp
+
+dir_len: 4, subdir: gffp/
+command: $ ls
+
+command: 34212 rjc.ncl
+
+pp: , size: 28714598
+pp: /, size: 28714598
+pp: /gwlwp/, size: 24827621
+pp: /gwlwp/lmmpmghg/, size: 3646127
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 3646127
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/, size: 1187585
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/ssqj/, size: 0
+pp: /gwlwp/lmmpmghg/fwdwq/qgdjz/ssqj/gffp/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 324875 btm
+
+pp: , size: 28748810
+pp: /, size: 28748810
+pp: /gwlwp/, size: 24861833
+pp: /gwlwp/lmmpmghg/, size: 3680339
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 3680339
+pp: /gwlwp/lmmpmghg/fwdwq/qzgsswr/, size: 0
+command: 275450 fmfnpm.gdr
+
+pp: , size: 29073685
+pp: /, size: 29073685
+pp: /gwlwp/, size: 25186708
+pp: /gwlwp/lmmpmghg/, size: 4005214
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 4005214
+pp: /gwlwp/lmmpmghg/fwdwq/qzgsswr/, size: 324875
+command: 190317 hwzgndb
+
+pp: , size: 29349135
+pp: /, size: 29349135
+pp: /gwlwp/, size: 25462158
+pp: /gwlwp/lmmpmghg/, size: 4280664
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 4280664
+pp: /gwlwp/lmmpmghg/fwdwq/qzgsswr/, size: 600325
+command: 251199 mgdsh.tfd
+
+pp: , size: 29539452
+pp: /, size: 29539452
+pp: /gwlwp/, size: 25652475
+pp: /gwlwp/lmmpmghg/, size: 4470981
+pp: /gwlwp/lmmpmghg/fwdwq/, size: 4470981
+pp: /gwlwp/lmmpmghg/fwdwq/qzgsswr/, size: 790642
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd snqlc
+
+dir_len: 5, subdir: snqlc/
+command: $ ls
+
+command: dir ztsc
+
+pp: , size: 29790651
+pp: /, size: 29790651
+pp: /gwlwp/, size: 25903674
+pp: /gwlwp/lmmpmghg/, size: 4722180
+pp: /gwlwp/lmmpmghg/snqlc/, size: 0
+command: $ cd ztsc
+
+dir_len: 4, subdir: ztsc/
+command: $ ls
+
+command: 169368 jqnl.hzj
+
+pp: , size: 29790651
+pp: /, size: 29790651
+pp: /gwlwp/, size: 25903674
+pp: /gwlwp/lmmpmghg/, size: 4722180
+pp: /gwlwp/lmmpmghg/snqlc/, size: 0
+pp: /gwlwp/lmmpmghg/snqlc/ztsc/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd trtpbbs
+
+dir_len: 7, subdir: trtpbbs/
+command: $ ls
+
+command: 216211 hhf.hww
+
+pp: , size: 29960019
+pp: /, size: 29960019
+pp: /gwlwp/, size: 26073042
+pp: /gwlwp/lmmpmghg/, size: 4891548
+pp: /gwlwp/lmmpmghg/trtpbbs/, size: 0
+command: 101252 htzmmgd
+
+pp: , size: 30176230
+pp: /, size: 30176230
+pp: /gwlwp/, size: 26289253
+pp: /gwlwp/lmmpmghg/, size: 5107759
+pp: /gwlwp/lmmpmghg/trtpbbs/, size: 216211
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: 312349 qtgpq.jjf
+
+pp: , size: 30277482
+pp: /, size: 30277482
+pp: /gwlwp/, size: 26390505
+pp: /gwlwp/lmmpmghg/, size: 5209011
+pp: /gwlwp/lmmpmghg/zlpmfh/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd mnw
+
+dir_len: 3, subdir: mnw/
+command: $ ls
+
+command: dir fwdwq
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+command: dir vbplht
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+command: dir zgrwvc
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+command: dir zqlqrjgr
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: dir cgtmbm
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+pp: /gwlwp/mnw/fwdwq/, size: 0
+command: dir dpnhgsf
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+pp: /gwlwp/mnw/fwdwq/, size: 0
+command: dir lddgc
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+pp: /gwlwp/mnw/fwdwq/, size: 0
+command: dir qzgsswr
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+pp: /gwlwp/mnw/fwdwq/, size: 0
+command: 29505 vffzmhj.jqc
+
+pp: , size: 30589831
+pp: /, size: 30589831
+pp: /gwlwp/, size: 26702854
+pp: /gwlwp/mnw/, size: 0
+pp: /gwlwp/mnw/fwdwq/, size: 0
+command: $ cd cgtmbm
+
+dir_len: 6, subdir: cgtmbm/
+command: $ ls
+
+command: dir dcw
+
+pp: , size: 30619336
+pp: /, size: 30619336
+pp: /gwlwp/, size: 26732359
+pp: /gwlwp/mnw/, size: 29505
+pp: /gwlwp/mnw/fwdwq/, size: 29505
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 0
+command: 132840 fwdvgnqp.fsm
+
+pp: , size: 30619336
+pp: /, size: 30619336
+pp: /gwlwp/, size: 26732359
+pp: /gwlwp/mnw/, size: 29505
+pp: /gwlwp/mnw/fwdwq/, size: 29505
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 0
+command: dir fwdwq
+
+pp: , size: 30752176
+pp: /, size: 30752176
+pp: /gwlwp/, size: 26865199
+pp: /gwlwp/mnw/, size: 162345
+pp: /gwlwp/mnw/fwdwq/, size: 162345
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 132840
+command: 143226 hwsqv
+
+pp: , size: 30752176
+pp: /, size: 30752176
+pp: /gwlwp/, size: 26865199
+pp: /gwlwp/mnw/, size: 162345
+pp: /gwlwp/mnw/fwdwq/, size: 162345
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 132840
+command: 160598 sbjbw.shv
+
+pp: , size: 30895402
+pp: /, size: 30895402
+pp: /gwlwp/, size: 27008425
+pp: /gwlwp/mnw/, size: 305571
+pp: /gwlwp/mnw/fwdwq/, size: 305571
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 276066
+command: $ cd dcw
+
+dir_len: 3, subdir: dcw/
+command: $ ls
+
+command: dir mdqq
+
+pp: , size: 31056000
+pp: /, size: 31056000
+pp: /gwlwp/, size: 27169023
+pp: /gwlwp/mnw/, size: 466169
+pp: /gwlwp/mnw/fwdwq/, size: 466169
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 436664
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 0
+command: dir nrg
+
+pp: , size: 31056000
+pp: /, size: 31056000
+pp: /gwlwp/, size: 27169023
+pp: /gwlwp/mnw/, size: 466169
+pp: /gwlwp/mnw/fwdwq/, size: 466169
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 436664
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 0
+command: $ cd mdqq
+
+dir_len: 4, subdir: mdqq/
+command: $ ls
+
+command: 230975 fwdvgnqp.fsm
+
+pp: , size: 31056000
+pp: /, size: 31056000
+pp: /gwlwp/, size: 27169023
+pp: /gwlwp/mnw/, size: 466169
+pp: /gwlwp/mnw/fwdwq/, size: 466169
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 436664
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 0
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 0
+command: dir fzb
+
+pp: , size: 31286975
+pp: /, size: 31286975
+pp: /gwlwp/, size: 27399998
+pp: /gwlwp/mnw/, size: 697144
+pp: /gwlwp/mnw/fwdwq/, size: 697144
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 667639
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 230975
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 230975
+command: 207419 mdwmrb.nqd
+
+pp: , size: 31286975
+pp: /, size: 31286975
+pp: /gwlwp/, size: 27399998
+pp: /gwlwp/mnw/, size: 697144
+pp: /gwlwp/mnw/fwdwq/, size: 697144
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 667639
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 230975
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 230975
+command: dir pfzsg
+
+pp: , size: 31494394
+pp: /, size: 31494394
+pp: /gwlwp/, size: 27607417
+pp: /gwlwp/mnw/, size: 904563
+pp: /gwlwp/mnw/fwdwq/, size: 904563
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 875058
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 438394
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 438394
+command: dir wvtjplcj
+
+pp: , size: 31494394
+pp: /, size: 31494394
+pp: /gwlwp/, size: 27607417
+pp: /gwlwp/mnw/, size: 904563
+pp: /gwlwp/mnw/fwdwq/, size: 904563
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 875058
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 438394
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 438394
+command: $ cd fzb
+
+dir_len: 3, subdir: fzb/
+command: $ ls
+
+command: 116263 fmfnpm
+
+pp: , size: 31494394
+pp: /, size: 31494394
+pp: /gwlwp/, size: 27607417
+pp: /gwlwp/mnw/, size: 904563
+pp: /gwlwp/mnw/fwdwq/, size: 904563
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 875058
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 438394
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 438394
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/fzb/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd pfzsg
+
+dir_len: 5, subdir: pfzsg/
+command: $ ls
+
+command: 211092 chp.lwg
+
+pp: , size: 31610657
+pp: /, size: 31610657
+pp: /gwlwp/, size: 27723680
+pp: /gwlwp/mnw/, size: 1020826
+pp: /gwlwp/mnw/fwdwq/, size: 1020826
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 991321
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 554657
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 554657
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/pfzsg/, size: 0
+command: 149800 fbffjpz
+
+pp: , size: 31821749
+pp: /, size: 31821749
+pp: /gwlwp/, size: 27934772
+pp: /gwlwp/mnw/, size: 1231918
+pp: /gwlwp/mnw/fwdwq/, size: 1231918
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 1202413
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 765749
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 765749
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/pfzsg/, size: 211092
+command: 124128 nqvdq.hhl
+
+pp: , size: 31971549
+pp: /, size: 31971549
+pp: /gwlwp/, size: 28084572
+pp: /gwlwp/mnw/, size: 1381718
+pp: /gwlwp/mnw/fwdwq/, size: 1381718
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 1352213
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 915549
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 915549
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/pfzsg/, size: 360892
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd wvtjplcj
+
+dir_len: 8, subdir: wvtjplcj/
+command: $ ls
+
+command: 82449 lcchd.gsl
+
+pp: , size: 32095677
+pp: /, size: 32095677
+pp: /gwlwp/, size: 28208700
+pp: /gwlwp/mnw/, size: 1505846
+pp: /gwlwp/mnw/fwdwq/, size: 1505846
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 1476341
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 1039677
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/, size: 1039677
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/wvtjplcj/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd nrg
+
+dir_len: 3, subdir: nrg/
+command: $ ls
+
+command: 32393 fwdvgnqp.fsm
+
+pp: , size: 32178126
+pp: /, size: 32178126
+pp: /gwlwp/, size: 28291149
+pp: /gwlwp/mnw/, size: 1588295
+pp: /gwlwp/mnw/fwdwq/, size: 1588295
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 1558790
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/, size: 1122126
+pp: /gwlwp/mnw/fwdwq/cgtmbm/dcw/nrg/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 63350 zlpmfh.jql
+
+pp: , size: 32210519
+pp: /, size: 32210519
+pp: /gwlwp/, size: 28323542
+pp: /gwlwp/mnw/, size: 1620688
+pp: /gwlwp/mnw/fwdwq/, size: 1620688
+pp: /gwlwp/mnw/fwdwq/cgtmbm/, size: 1591183
+pp: /gwlwp/mnw/fwdwq/cgtmbm/fwdwq/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd dpnhgsf
+
+dir_len: 7, subdir: dpnhgsf/
+command: $ ls
+
+command: 89773 mchpsf.cwl
+
+pp: , size: 32273869
+pp: /, size: 32273869
+pp: /gwlwp/, size: 28386892
+pp: /gwlwp/mnw/, size: 1684038
+pp: /gwlwp/mnw/fwdwq/, size: 1684038
+pp: /gwlwp/mnw/fwdwq/dpnhgsf/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd lddgc
+
+dir_len: 5, subdir: lddgc/
+command: $ ls
+
+command: 56273 cwdjlw
+
+pp: , size: 32363642
+pp: /, size: 32363642
+pp: /gwlwp/, size: 28476665
+pp: /gwlwp/mnw/, size: 1773811
+pp: /gwlwp/mnw/fwdwq/, size: 1773811
+pp: /gwlwp/mnw/fwdwq/lddgc/, size: 0
+command: 261919 fzb.qbr
+
+pp: , size: 32419915
+pp: /, size: 32419915
+pp: /gwlwp/, size: 28532938
+pp: /gwlwp/mnw/, size: 1830084
+pp: /gwlwp/mnw/fwdwq/, size: 1830084
+pp: /gwlwp/mnw/fwdwq/lddgc/, size: 56273
+command: 49151 vtjc.qqq
+
+pp: , size: 32681834
+pp: /, size: 32681834
+pp: /gwlwp/, size: 28794857
+pp: /gwlwp/mnw/, size: 2092003
+pp: /gwlwp/mnw/fwdwq/, size: 2092003
+pp: /gwlwp/mnw/fwdwq/lddgc/, size: 318192
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 288467 jqnl.hzj
+
+pp: , size: 32730985
+pp: /, size: 32730985
+pp: /gwlwp/, size: 28844008
+pp: /gwlwp/mnw/, size: 2141154
+pp: /gwlwp/mnw/fwdwq/, size: 2141154
+pp: /gwlwp/mnw/fwdwq/qzgsswr/, size: 0
+command: 283162 tfsnpt.cpr
+
+pp: , size: 33019452
+pp: /, size: 33019452
+pp: /gwlwp/, size: 29132475
+pp: /gwlwp/mnw/, size: 2429621
+pp: /gwlwp/mnw/fwdwq/, size: 2429621
+pp: /gwlwp/mnw/fwdwq/qzgsswr/, size: 288467
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd vbplht
+
+dir_len: 6, subdir: vbplht/
+command: $ ls
+
+command: 115696 mfwsbzzm.stf
+
+pp: , size: 33302614
+pp: /, size: 33302614
+pp: /gwlwp/, size: 29415637
+pp: /gwlwp/mnw/, size: 2712783
+pp: /gwlwp/mnw/vbplht/, size: 0
+command: 149951 mnwj.jdn
+
+pp: , size: 33418310
+pp: /, size: 33418310
+pp: /gwlwp/, size: 29531333
+pp: /gwlwp/mnw/, size: 2828479
+pp: /gwlwp/mnw/vbplht/, size: 115696
+command: 222362 vtpzr.nnj
+
+pp: , size: 33568261
+pp: /, size: 33568261
+pp: /gwlwp/, size: 29681284
+pp: /gwlwp/mnw/, size: 2978430
+pp: /gwlwp/mnw/vbplht/, size: 265647
+command: dir zlpmfh
+
+pp: , size: 33790623
+pp: /, size: 33790623
+pp: /gwlwp/, size: 29903646
+pp: /gwlwp/mnw/, size: 3200792
+pp: /gwlwp/mnw/vbplht/, size: 488009
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: dir dqszzbs
+
+pp: , size: 33790623
+pp: /, size: 33790623
+pp: /gwlwp/, size: 29903646
+pp: /gwlwp/mnw/, size: 3200792
+pp: /gwlwp/mnw/vbplht/, size: 488009
+pp: /gwlwp/mnw/vbplht/zlpmfh/, size: 0
+command: 293533 fmfnpm.msw
+
+pp: , size: 33790623
+pp: /, size: 33790623
+pp: /gwlwp/, size: 29903646
+pp: /gwlwp/mnw/, size: 3200792
+pp: /gwlwp/mnw/vbplht/, size: 488009
+pp: /gwlwp/mnw/vbplht/zlpmfh/, size: 0
+command: 184810 jsfqrptb.dcl
+
+pp: , size: 34084156
+pp: /, size: 34084156
+pp: /gwlwp/, size: 30197179
+pp: /gwlwp/mnw/, size: 3494325
+pp: /gwlwp/mnw/vbplht/, size: 781542
+pp: /gwlwp/mnw/vbplht/zlpmfh/, size: 293533
+command: 224988 whmgv
+
+pp: , size: 34268966
+pp: /, size: 34268966
+pp: /gwlwp/, size: 30381989
+pp: /gwlwp/mnw/, size: 3679135
+pp: /gwlwp/mnw/vbplht/, size: 966352
+pp: /gwlwp/mnw/vbplht/zlpmfh/, size: 478343
+command: $ cd dqszzbs
+
+dir_len: 7, subdir: dqszzbs/
+command: $ ls
+
+command: 140899 btm
+
+pp: , size: 34493954
+pp: /, size: 34493954
+pp: /gwlwp/, size: 30606977
+pp: /gwlwp/mnw/, size: 3904123
+pp: /gwlwp/mnw/vbplht/, size: 1191340
+pp: /gwlwp/mnw/vbplht/zlpmfh/, size: 703331
+pp: /gwlwp/mnw/vbplht/zlpmfh/dqszzbs/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zgrwvc
+
+dir_len: 6, subdir: zgrwvc/
+command: $ ls
+
+command: dir prmrv
+
+pp: , size: 34634853
+pp: /, size: 34634853
+pp: /gwlwp/, size: 30747876
+pp: /gwlwp/mnw/, size: 4045022
+pp: /gwlwp/mnw/zgrwvc/, size: 0
+command: 182098 qsljdzsj
+
+pp: , size: 34634853
+pp: /, size: 34634853
+pp: /gwlwp/, size: 30747876
+pp: /gwlwp/mnw/, size: 4045022
+pp: /gwlwp/mnw/zgrwvc/, size: 0
+command: 16089 rjc.ncl
+
+pp: , size: 34816951
+pp: /, size: 34816951
+pp: /gwlwp/, size: 30929974
+pp: /gwlwp/mnw/, size: 4227120
+pp: /gwlwp/mnw/zgrwvc/, size: 182098
+command: 24028 tpq.dhd
+
+pp: , size: 34833040
+pp: /, size: 34833040
+pp: /gwlwp/, size: 30946063
+pp: /gwlwp/mnw/, size: 4243209
+pp: /gwlwp/mnw/zgrwvc/, size: 198187
+command: $ cd prmrv
+
+dir_len: 5, subdir: prmrv/
+command: $ ls
+
+command: 261147 rjc.ncl
+
+pp: , size: 34857068
+pp: /, size: 34857068
+pp: /gwlwp/, size: 30970091
+pp: /gwlwp/mnw/, size: 4267237
+pp: /gwlwp/mnw/zgrwvc/, size: 222215
+pp: /gwlwp/mnw/zgrwvc/prmrv/, size: 0
+command: 285206 zlpmfh.hcz
+
+pp: , size: 35118215
+pp: /, size: 35118215
+pp: /gwlwp/, size: 31231238
+pp: /gwlwp/mnw/, size: 4528384
+pp: /gwlwp/mnw/zgrwvc/, size: 483362
+pp: /gwlwp/mnw/zgrwvc/prmrv/, size: 261147
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zqlqrjgr
+
+dir_len: 8, subdir: zqlqrjgr/
+command: $ ls
+
+command: dir cjmhdr
+
+pp: , size: 35403421
+pp: /, size: 35403421
+pp: /gwlwp/, size: 31516444
+pp: /gwlwp/mnw/, size: 4813590
+pp: /gwlwp/mnw/zqlqrjgr/, size: 0
+command: 16259 sbjbw.shv
+
+pp: , size: 35403421
+pp: /, size: 35403421
+pp: /gwlwp/, size: 31516444
+pp: /gwlwp/mnw/, size: 4813590
+pp: /gwlwp/mnw/zqlqrjgr/, size: 0
+command: $ cd cjmhdr
+
+dir_len: 6, subdir: cjmhdr/
+command: $ ls
+
+command: 43212 fmfnpm
+
+pp: , size: 35419680
+pp: /, size: 35419680
+pp: /gwlwp/, size: 31532703
+pp: /gwlwp/mnw/, size: 4829849
+pp: /gwlwp/mnw/zqlqrjgr/, size: 16259
+pp: /gwlwp/mnw/zqlqrjgr/cjmhdr/, size: 0
+command: 36273 jqnl.hzj
+
+pp: , size: 35462892
+pp: /, size: 35462892
+pp: /gwlwp/, size: 31575915
+pp: /gwlwp/mnw/, size: 4873061
+pp: /gwlwp/mnw/zqlqrjgr/, size: 59471
+pp: /gwlwp/mnw/zqlqrjgr/cjmhdr/, size: 43212
+command: 66482 jtm.hmj
+
+pp: , size: 35499165
+pp: /, size: 35499165
+pp: /gwlwp/, size: 31612188
+pp: /gwlwp/mnw/, size: 4909334
+pp: /gwlwp/mnw/zqlqrjgr/, size: 95744
+pp: /gwlwp/mnw/zqlqrjgr/cjmhdr/, size: 79485
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 154596 frglht.mvr
+
+pp: , size: 35565647
+pp: /, size: 35565647
+pp: /gwlwp/, size: 31678670
+pp: /gwlwp/qzgsswr/, size: 0
+command: dir fwdwq
+
+pp: , size: 35720243
+pp: /, size: 35720243
+pp: /gwlwp/, size: 31833266
+pp: /gwlwp/qzgsswr/, size: 154596
+command: dir fzb
+
+pp: , size: 35720243
+pp: /, size: 35720243
+pp: /gwlwp/, size: 31833266
+pp: /gwlwp/qzgsswr/, size: 154596
+command: 150820 rjc.ncl
+
+pp: , size: 35720243
+pp: /, size: 35720243
+pp: /gwlwp/, size: 31833266
+pp: /gwlwp/qzgsswr/, size: 154596
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: dir gmthth
+
+pp: , size: 35871063
+pp: /, size: 35871063
+pp: /gwlwp/, size: 31984086
+pp: /gwlwp/qzgsswr/, size: 305416
+pp: /gwlwp/qzgsswr/fwdwq/, size: 0
+command: 121228 mfsmjhr
+
+pp: , size: 35871063
+pp: /, size: 35871063
+pp: /gwlwp/, size: 31984086
+pp: /gwlwp/qzgsswr/, size: 305416
+pp: /gwlwp/qzgsswr/fwdwq/, size: 0
+command: dir njm
+
+pp: , size: 35992291
+pp: /, size: 35992291
+pp: /gwlwp/, size: 32105314
+pp: /gwlwp/qzgsswr/, size: 426644
+pp: /gwlwp/qzgsswr/fwdwq/, size: 121228
+command: dir tslpnb
+
+pp: , size: 35992291
+pp: /, size: 35992291
+pp: /gwlwp/, size: 32105314
+pp: /gwlwp/qzgsswr/, size: 426644
+pp: /gwlwp/qzgsswr/fwdwq/, size: 121228
+command: $ cd gmthth
+
+dir_len: 6, subdir: gmthth/
+command: $ ls
+
+command: 315665 fzb.gwc
+
+pp: , size: 35992291
+pp: /, size: 35992291
+pp: /gwlwp/, size: 32105314
+pp: /gwlwp/qzgsswr/, size: 426644
+pp: /gwlwp/qzgsswr/fwdwq/, size: 121228
+pp: /gwlwp/qzgsswr/fwdwq/gmthth/, size: 0
+command: 291878 qzgsswr.gss
+
+pp: , size: 36307956
+pp: /, size: 36307956
+pp: /gwlwp/, size: 32420979
+pp: /gwlwp/qzgsswr/, size: 742309
+pp: /gwlwp/qzgsswr/fwdwq/, size: 436893
+pp: /gwlwp/qzgsswr/fwdwq/gmthth/, size: 315665
+command: 105707 rjc.ncl
+
+pp: , size: 36599834
+pp: /, size: 36599834
+pp: /gwlwp/, size: 32712857
+pp: /gwlwp/qzgsswr/, size: 1034187
+pp: /gwlwp/qzgsswr/fwdwq/, size: 728771
+pp: /gwlwp/qzgsswr/fwdwq/gmthth/, size: 607543
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd njm
+
+dir_len: 3, subdir: njm/
+command: $ ls
+
+command: 49199 fwdvgnqp.fsm
+
+pp: , size: 36705541
+pp: /, size: 36705541
+pp: /gwlwp/, size: 32818564
+pp: /gwlwp/qzgsswr/, size: 1139894
+pp: /gwlwp/qzgsswr/fwdwq/, size: 834478
+pp: /gwlwp/qzgsswr/fwdwq/njm/, size: 0
+command: 17669 jqnl.hzj
+
+pp: , size: 36754740
+pp: /, size: 36754740
+pp: /gwlwp/, size: 32867763
+pp: /gwlwp/qzgsswr/, size: 1189093
+pp: /gwlwp/qzgsswr/fwdwq/, size: 883677
+pp: /gwlwp/qzgsswr/fwdwq/njm/, size: 49199
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd tslpnb
+
+dir_len: 6, subdir: tslpnb/
+command: $ ls
+
+command: 268158 fwdwq
+
+pp: , size: 36772409
+pp: /, size: 36772409
+pp: /gwlwp/, size: 32885432
+pp: /gwlwp/qzgsswr/, size: 1206762
+pp: /gwlwp/qzgsswr/fwdwq/, size: 901346
+pp: /gwlwp/qzgsswr/fwdwq/tslpnb/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fzb
+
+dir_len: 3, subdir: fzb/
+command: $ ls
+
+command: 270392 jqnl.hzj
+
+pp: , size: 37040567
+pp: /, size: 37040567
+pp: /gwlwp/, size: 33153590
+pp: /gwlwp/qzgsswr/, size: 1474920
+pp: /gwlwp/qzgsswr/fzb/, size: 0
+command: 38464 rwfjhg.rqt
+
+pp: , size: 37310959
+pp: /, size: 37310959
+pp: /gwlwp/, size: 33423982
+pp: /gwlwp/qzgsswr/, size: 1745312
+pp: /gwlwp/qzgsswr/fzb/, size: 270392
+command: 19087 wcqmpcrf.tzp
+
+pp: , size: 37349423
+pp: /, size: 37349423
+pp: /gwlwp/, size: 33462446
+pp: /gwlwp/qzgsswr/, size: 1783776
+pp: /gwlwp/qzgsswr/fzb/, size: 308856
+command: 5009 zlpmfh.mmq
+
+pp: , size: 37368510
+pp: /, size: 37368510
+pp: /gwlwp/, size: 33481533
+pp: /gwlwp/qzgsswr/, size: 1802863
+pp: /gwlwp/qzgsswr/fzb/, size: 327943
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: dir dfgz
+
+pp: , size: 37373519
+pp: /, size: 37373519
+pp: /gwlwp/, size: 33486542
+pp: /gwlwp/zlpmfh/, size: 0
+command: dir fmfnpm
+
+pp: , size: 37373519
+pp: /, size: 37373519
+pp: /gwlwp/, size: 33486542
+pp: /gwlwp/zlpmfh/, size: 0
+command: 58493 sbjbw.shv
+
+pp: , size: 37373519
+pp: /, size: 37373519
+pp: /gwlwp/, size: 33486542
+pp: /gwlwp/zlpmfh/, size: 0
+command: dir tvzqcg
+
+pp: , size: 37432012
+pp: /, size: 37432012
+pp: /gwlwp/, size: 33545035
+pp: /gwlwp/zlpmfh/, size: 58493
+command: 12981 zlpmfh.ggc
+
+pp: , size: 37432012
+pp: /, size: 37432012
+pp: /gwlwp/, size: 33545035
+pp: /gwlwp/zlpmfh/, size: 58493
+command: $ cd dfgz
+
+dir_len: 4, subdir: dfgz/
+command: $ ls
+
+command: dir ncrggngr
+
+pp: , size: 37444993
+pp: /, size: 37444993
+pp: /gwlwp/, size: 33558016
+pp: /gwlwp/zlpmfh/, size: 71474
+pp: /gwlwp/zlpmfh/dfgz/, size: 0
+command: 202192 qdnfl.pvt
+
+pp: , size: 37444993
+pp: /, size: 37444993
+pp: /gwlwp/, size: 33558016
+pp: /gwlwp/zlpmfh/, size: 71474
+pp: /gwlwp/zlpmfh/dfgz/, size: 0
+command: $ cd ncrggngr
+
+dir_len: 8, subdir: ncrggngr/
+command: $ ls
+
+command: dir fwdwq
+
+pp: , size: 37647185
+pp: /, size: 37647185
+pp: /gwlwp/, size: 33760208
+pp: /gwlwp/zlpmfh/, size: 273666
+pp: /gwlwp/zlpmfh/dfgz/, size: 202192
+pp: /gwlwp/zlpmfh/dfgz/ncrggngr/, size: 0
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: 246049 btm
+
+pp: , size: 37647185
+pp: /, size: 37647185
+pp: /gwlwp/, size: 33760208
+pp: /gwlwp/zlpmfh/, size: 273666
+pp: /gwlwp/zlpmfh/dfgz/, size: 202192
+pp: /gwlwp/zlpmfh/dfgz/ncrggngr/, size: 0
+pp: /gwlwp/zlpmfh/dfgz/ncrggngr/fwdwq/, size: 0
+command: 123758 vfw
+
+pp: , size: 37893234
+pp: /, size: 37893234
+pp: /gwlwp/, size: 34006257
+pp: /gwlwp/zlpmfh/, size: 519715
+pp: /gwlwp/zlpmfh/dfgz/, size: 448241
+pp: /gwlwp/zlpmfh/dfgz/ncrggngr/, size: 246049
+pp: /gwlwp/zlpmfh/dfgz/ncrggngr/fwdwq/, size: 246049
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fmfnpm
+
+dir_len: 6, subdir: fmfnpm/
+command: $ ls
+
+command: 90482 fwdwq
+
+pp: , size: 38016992
+pp: /, size: 38016992
+pp: /gwlwp/, size: 34130015
+pp: /gwlwp/zlpmfh/, size: 643473
+pp: /gwlwp/zlpmfh/fmfnpm/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd tvzqcg
+
+dir_len: 6, subdir: tvzqcg/
+command: $ ls
+
+command: 37360 btm
+
+pp: , size: 38107474
+pp: /, size: 38107474
+pp: /gwlwp/, size: 34220497
+pp: /gwlwp/zlpmfh/, size: 733955
+pp: /gwlwp/zlpmfh/tvzqcg/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd hchp
+
+dir_len: 4, subdir: hchp/
+command: $ ls
+
+command: dir jlcsc
+
+pp: , size: 38144834
+pp: /, size: 38144834
+pp: /hchp/, size: 0
+command: 191408 jqnl.hzj
+
+pp: , size: 38144834
+pp: /, size: 38144834
+pp: /hchp/, size: 0
+command: dir lvws
+
+pp: , size: 38336242
+pp: /, size: 38336242
+pp: /hchp/, size: 191408
+command: dir zlpmfh
+
+pp: , size: 38336242
+pp: /, size: 38336242
+pp: /hchp/, size: 191408
+command: dir zvb
+
+pp: , size: 38336242
+pp: /, size: 38336242
+pp: /hchp/, size: 191408
+command: $ cd jlcsc
+
+dir_len: 5, subdir: jlcsc/
+command: $ ls
+
+command: dir pqdwdtm
+
+pp: , size: 38336242
+pp: /, size: 38336242
+pp: /hchp/, size: 191408
+pp: /hchp/jlcsc/, size: 0
+command: $ cd pqdwdtm
+
+dir_len: 7, subdir: pqdwdtm/
+command: $ ls
+
+command: 203078 cwtdqrn
+
+pp: , size: 38336242
+pp: /, size: 38336242
+pp: /hchp/, size: 191408
+pp: /hchp/jlcsc/, size: 0
+pp: /hchp/jlcsc/pqdwdtm/, size: 0
+command: 169712 fwdvgnqp.fsm
+
+pp: , size: 38539320
+pp: /, size: 38539320
+pp: /hchp/, size: 394486
+pp: /hchp/jlcsc/, size: 203078
+pp: /hchp/jlcsc/pqdwdtm/, size: 203078
+command: 106227 jqnl.hzj
+
+pp: , size: 38709032
+pp: /, size: 38709032
+pp: /hchp/, size: 564198
+pp: /hchp/jlcsc/, size: 372790
+pp: /hchp/jlcsc/pqdwdtm/, size: 372790
+command: 66550 zvmf
+
+pp: , size: 38815259
+pp: /, size: 38815259
+pp: /hchp/, size: 670425
+pp: /hchp/jlcsc/, size: 479017
+pp: /hchp/jlcsc/pqdwdtm/, size: 479017
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd lvws
+
+dir_len: 4, subdir: lvws/
+command: $ ls
+
+command: 210229 tcc.ngf
+
+pp: , size: 38881809
+pp: /, size: 38881809
+pp: /hchp/, size: 736975
+pp: /hchp/lvws/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: dir vdtv
+
+pp: , size: 39092038
+pp: /, size: 39092038
+pp: /hchp/, size: 947204
+pp: /hchp/zlpmfh/, size: 0
+command: $ cd vdtv
+
+dir_len: 4, subdir: vdtv/
+command: $ ls
+
+command: dir fdrv
+
+pp: , size: 39092038
+pp: /, size: 39092038
+pp: /hchp/, size: 947204
+pp: /hchp/zlpmfh/, size: 0
+pp: /hchp/zlpmfh/vdtv/, size: 0
+command: $ cd fdrv
+
+dir_len: 4, subdir: fdrv/
+command: $ ls
+
+command: 40808 fmfnpm.ssj
+
+pp: , size: 39092038
+pp: /, size: 39092038
+pp: /hchp/, size: 947204
+pp: /hchp/zlpmfh/, size: 0
+pp: /hchp/zlpmfh/vdtv/, size: 0
+pp: /hchp/zlpmfh/vdtv/fdrv/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zvb
+
+dir_len: 3, subdir: zvb/
+command: $ ls
+
+command: dir cnsddwlg
+
+pp: , size: 39132846
+pp: /, size: 39132846
+pp: /hchp/, size: 988012
+pp: /hchp/zvb/, size: 0
+command: dir csdz
+
+pp: , size: 39132846
+pp: /, size: 39132846
+pp: /hchp/, size: 988012
+pp: /hchp/zvb/, size: 0
+command: $ cd cnsddwlg
+
+dir_len: 8, subdir: cnsddwlg/
+command: $ ls
+
+command: 232 jqnl.hzj
+
+pp: , size: 39132846
+pp: /, size: 39132846
+pp: /hchp/, size: 988012
+pp: /hchp/zvb/, size: 0
+pp: /hchp/zvb/cnsddwlg/, size: 0
+command: dir tcjhhh
+
+pp: , size: 39133078
+pp: /, size: 39133078
+pp: /hchp/, size: 988244
+pp: /hchp/zvb/, size: 232
+pp: /hchp/zvb/cnsddwlg/, size: 232
+command: $ cd tcjhhh
+
+dir_len: 6, subdir: tcjhhh/
+command: $ ls
+
+command: 225195 flm.hmb
+
+pp: , size: 39133078
+pp: /, size: 39133078
+pp: /hchp/, size: 988244
+pp: /hchp/zvb/, size: 232
+pp: /hchp/zvb/cnsddwlg/, size: 232
+pp: /hchp/zvb/cnsddwlg/tcjhhh/, size: 0
+command: 227170 vvdqw.hwn
+
+pp: , size: 39358273
+pp: /, size: 39358273
+pp: /hchp/, size: 1213439
+pp: /hchp/zvb/, size: 225427
+pp: /hchp/zvb/cnsddwlg/, size: 225427
+pp: /hchp/zvb/cnsddwlg/tcjhhh/, size: 225195
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd csdz
+
+dir_len: 4, subdir: csdz/
+command: $ ls
+
+command: dir qzgsswr
+
+pp: , size: 39585443
+pp: /, size: 39585443
+pp: /hchp/, size: 1440609
+pp: /hchp/zvb/, size: 452597
+pp: /hchp/zvb/csdz/, size: 0
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 250314 fzb.jhc
+
+pp: , size: 39585443
+pp: /, size: 39585443
+pp: /hchp/, size: 1440609
+pp: /hchp/zvb/, size: 452597
+pp: /hchp/zvb/csdz/, size: 0
+pp: /hchp/zvb/csdz/qzgsswr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd nsphznf
+
+dir_len: 7, subdir: nsphznf/
+command: $ ls
+
+command: 277038 vns.cpc
+
+pp: , size: 39835757
+pp: /, size: 39835757
+pp: /nsphznf/, size: 0
+command: 162685 wvzlgf.dss
+
+pp: , size: 40112795
+pp: /, size: 40112795
+pp: /nsphznf/, size: 277038
+command: dir zldbdl
+
+pp: , size: 40275480
+pp: /, size: 40275480
+pp: /nsphznf/, size: 439723
+command: $ cd zldbdl
+
+dir_len: 6, subdir: zldbdl/
+command: $ ls
+
+command: 263687 jqnl.hzj
+
+pp: , size: 40275480
+pp: /, size: 40275480
+pp: /nsphznf/, size: 439723
+pp: /nsphznf/zldbdl/, size: 0
+command: 137415 qzgsswr
+
+pp: , size: 40539167
+pp: /, size: 40539167
+pp: /nsphznf/, size: 703410
+pp: /nsphznf/zldbdl/, size: 263687
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd phschqg
+
+dir_len: 7, subdir: phschqg/
+command: $ ls
+
+command: 291670 fwdvgnqp.fsm
+
+pp: , size: 40676582
+pp: /, size: 40676582
+pp: /phschqg/, size: 0
+command: 163036 rjc.ncl
+
+pp: , size: 40968252
+pp: /, size: 40968252
+pp: /phschqg/, size: 291670
+command: dir zlpmfh
+
+pp: , size: 41131288
+pp: /, size: 41131288
+pp: /phschqg/, size: 454706
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: dir qzgsswr
+
+pp: , size: 41131288
+pp: /, size: 41131288
+pp: /phschqg/, size: 454706
+pp: /phschqg/zlpmfh/, size: 0
+command: 37363 szdv.chv
+
+pp: , size: 41131288
+pp: /, size: 41131288
+pp: /phschqg/, size: 454706
+pp: /phschqg/zlpmfh/, size: 0
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 22625 tzhpl
+
+pp: , size: 41168651
+pp: /, size: 41168651
+pp: /phschqg/, size: 492069
+pp: /phschqg/zlpmfh/, size: 37363
+pp: /phschqg/zlpmfh/qzgsswr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd spfwthmd
+
+dir_len: 8, subdir: spfwthmd/
+command: $ ls
+
+command: 294499 ltfjljcv
+
+pp: , size: 41191276
+pp: /, size: 41191276
+pp: /spfwthmd/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd wchdqb
+
+dir_len: 6, subdir: wchdqb/
+command: $ ls
+
+command: 162305 jtf
+
+pp: , size: 41485775
+pp: /, size: 41485775
+pp: /wchdqb/, size: 0
+command: 215603 zlpmfh
+
+pp: , size: 41648080
+pp: /, size: 41648080
+pp: /wchdqb/, size: 162305
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zlpmfh
+
+dir_len: 6, subdir: zlpmfh/
+command: $ ls
+
+command: dir czb
+
+pp: , size: 41863683
+pp: /, size: 41863683
+pp: /zlpmfh/, size: 0
+command: dir hdm
+
+pp: , size: 41863683
+pp: /, size: 41863683
+pp: /zlpmfh/, size: 0
+command: dir jhqqbqb
+
+pp: , size: 41863683
+pp: /, size: 41863683
+pp: /zlpmfh/, size: 0
+command: dir zmj
+
+pp: , size: 41863683
+pp: /, size: 41863683
+pp: /zlpmfh/, size: 0
+command: $ cd czb
+
+dir_len: 3, subdir: czb/
+command: $ ls
+
+command: 17922 fmcljr.qvz
+
+pp: , size: 41863683
+pp: /, size: 41863683
+pp: /zlpmfh/, size: 0
+pp: /zlpmfh/czb/, size: 0
+command: 263068 fmlr.sgr
+
+pp: , size: 41881605
+pp: /, size: 41881605
+pp: /zlpmfh/, size: 17922
+pp: /zlpmfh/czb/, size: 17922
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd hdm
+
+dir_len: 3, subdir: hdm/
+command: $ ls
+
+command: dir frbhzrg
+
+pp: , size: 42144673
+pp: /, size: 42144673
+pp: /zlpmfh/, size: 280990
+pp: /zlpmfh/hdm/, size: 0
+command: dir fwdwq
+
+pp: , size: 42144673
+pp: /, size: 42144673
+pp: /zlpmfh/, size: 280990
+pp: /zlpmfh/hdm/, size: 0
+command: 270049 fwdwq.ldt
+
+pp: , size: 42144673
+pp: /, size: 42144673
+pp: /zlpmfh/, size: 280990
+pp: /zlpmfh/hdm/, size: 0
+command: 297608 glbb
+
+pp: , size: 42414722
+pp: /, size: 42414722
+pp: /zlpmfh/, size: 551039
+pp: /zlpmfh/hdm/, size: 270049
+command: 252269 gsdccc.hqw
+
+pp: , size: 42712330
+pp: /, size: 42712330
+pp: /zlpmfh/, size: 848647
+pp: /zlpmfh/hdm/, size: 567657
+command: 169953 nlhj.hnc
+
+pp: , size: 42964599
+pp: /, size: 42964599
+pp: /zlpmfh/, size: 1100916
+pp: /zlpmfh/hdm/, size: 819926
+command: 224702 rjc.ncl
+
+pp: , size: 43134552
+pp: /, size: 43134552
+pp: /zlpmfh/, size: 1270869
+pp: /zlpmfh/hdm/, size: 989879
+command: $ cd frbhzrg
+
+dir_len: 7, subdir: frbhzrg/
+command: $ ls
+
+command: 195491 sbjbw.shv
+
+pp: , size: 43359254
+pp: /, size: 43359254
+pp: /zlpmfh/, size: 1495571
+pp: /zlpmfh/hdm/, size: 1214581
+pp: /zlpmfh/hdm/frbhzrg/, size: 0
+command: 219888 sgfhs
+
+pp: , size: 43554745
+pp: /, size: 43554745
+pp: /zlpmfh/, size: 1691062
+pp: /zlpmfh/hdm/, size: 1410072
+pp: /zlpmfh/hdm/frbhzrg/, size: 195491
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd fwdwq
+
+dir_len: 5, subdir: fwdwq/
+command: $ ls
+
+command: dir ggc
+
+pp: , size: 43774633
+pp: /, size: 43774633
+pp: /zlpmfh/, size: 1910950
+pp: /zlpmfh/hdm/, size: 1629960
+pp: /zlpmfh/hdm/fwdwq/, size: 0
+command: dir mvqtp
+
+pp: , size: 43774633
+pp: /, size: 43774633
+pp: /zlpmfh/, size: 1910950
+pp: /zlpmfh/hdm/, size: 1629960
+pp: /zlpmfh/hdm/fwdwq/, size: 0
+command: dir rzvtdvvz
+
+pp: , size: 43774633
+pp: /, size: 43774633
+pp: /zlpmfh/, size: 1910950
+pp: /zlpmfh/hdm/, size: 1629960
+pp: /zlpmfh/hdm/fwdwq/, size: 0
+command: dir vjppb
+
+pp: , size: 43774633
+pp: /, size: 43774633
+pp: /zlpmfh/, size: 1910950
+pp: /zlpmfh/hdm/, size: 1629960
+pp: /zlpmfh/hdm/fwdwq/, size: 0
+command: $ cd ggc
+
+dir_len: 3, subdir: ggc/
+command: $ ls
+
+command: 150629 fwdwq
+
+pp: , size: 43774633
+pp: /, size: 43774633
+pp: /zlpmfh/, size: 1910950
+pp: /zlpmfh/hdm/, size: 1629960
+pp: /zlpmfh/hdm/fwdwq/, size: 0
+pp: /zlpmfh/hdm/fwdwq/ggc/, size: 0
+command: 144726 fwdwq.csr
+
+pp: , size: 43925262
+pp: /, size: 43925262
+pp: /zlpmfh/, size: 2061579
+pp: /zlpmfh/hdm/, size: 1780589
+pp: /zlpmfh/hdm/fwdwq/, size: 150629
+pp: /zlpmfh/hdm/fwdwq/ggc/, size: 150629
+command: 18186 fwdwq.jwt
+
+pp: , size: 44069988
+pp: /, size: 44069988
+pp: /zlpmfh/, size: 2206305
+pp: /zlpmfh/hdm/, size: 1925315
+pp: /zlpmfh/hdm/fwdwq/, size: 295355
+pp: /zlpmfh/hdm/fwdwq/ggc/, size: 295355
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd mvqtp
+
+dir_len: 5, subdir: mvqtp/
+command: $ ls
+
+command: dir dhp
+
+pp: , size: 44088174
+pp: /, size: 44088174
+pp: /zlpmfh/, size: 2224491
+pp: /zlpmfh/hdm/, size: 1943501
+pp: /zlpmfh/hdm/fwdwq/, size: 313541
+pp: /zlpmfh/hdm/fwdwq/mvqtp/, size: 0
+command: $ cd dhp
+
+dir_len: 3, subdir: dhp/
+command: $ ls
+
+command: 132445 btm
+
+pp: , size: 44088174
+pp: /, size: 44088174
+pp: /zlpmfh/, size: 2224491
+pp: /zlpmfh/hdm/, size: 1943501
+pp: /zlpmfh/hdm/fwdwq/, size: 313541
+pp: /zlpmfh/hdm/fwdwq/mvqtp/, size: 0
+pp: /zlpmfh/hdm/fwdwq/mvqtp/dhp/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd rzvtdvvz
+
+dir_len: 8, subdir: rzvtdvvz/
+command: $ ls
+
+command: 122759 fwdwq.ptd
+
+pp: , size: 44220619
+pp: /, size: 44220619
+pp: /zlpmfh/, size: 2356936
+pp: /zlpmfh/hdm/, size: 2075946
+pp: /zlpmfh/hdm/fwdwq/, size: 445986
+pp: /zlpmfh/hdm/fwdwq/rzvtdvvz/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd vjppb
+
+dir_len: 5, subdir: vjppb/
+command: $ ls
+
+command: 286152 jrmjsz.rrq
+
+pp: , size: 44343378
+pp: /, size: 44343378
+pp: /zlpmfh/, size: 2479695
+pp: /zlpmfh/hdm/, size: 2198705
+pp: /zlpmfh/hdm/fwdwq/, size: 568745
+pp: /zlpmfh/hdm/fwdwq/vjppb/, size: 0
+command: dir qzgsswr
+
+pp: , size: 44629530
+pp: /, size: 44629530
+pp: /zlpmfh/, size: 2765847
+pp: /zlpmfh/hdm/, size: 2484857
+pp: /zlpmfh/hdm/fwdwq/, size: 854897
+pp: /zlpmfh/hdm/fwdwq/vjppb/, size: 286152
+command: 292661 tnh
+
+pp: , size: 44629530
+pp: /, size: 44629530
+pp: /zlpmfh/, size: 2765847
+pp: /zlpmfh/hdm/, size: 2484857
+pp: /zlpmfh/hdm/fwdwq/, size: 854897
+pp: /zlpmfh/hdm/fwdwq/vjppb/, size: 286152
+command: $ cd qzgsswr
+
+dir_len: 7, subdir: qzgsswr/
+command: $ ls
+
+command: 205580 pswmmn.psl
+
+pp: , size: 44922191
+pp: /, size: 44922191
+pp: /zlpmfh/, size: 3058508
+pp: /zlpmfh/hdm/, size: 2777518
+pp: /zlpmfh/hdm/fwdwq/, size: 1147558
+pp: /zlpmfh/hdm/fwdwq/vjppb/, size: 578813
+pp: /zlpmfh/hdm/fwdwq/vjppb/qzgsswr/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd jhqqbqb
+
+dir_len: 7, subdir: jhqqbqb/
+command: $ ls
+
+command: dir mbqc
+
+pp: , size: 45127771
+pp: /, size: 45127771
+pp: /zlpmfh/, size: 3264088
+pp: /zlpmfh/jhqqbqb/, size: 0
+command: 149539 npgls
+
+pp: , size: 45127771
+pp: /, size: 45127771
+pp: /zlpmfh/, size: 3264088
+pp: /zlpmfh/jhqqbqb/, size: 0
+command: 156208 nzfphn
+
+pp: , size: 45277310
+pp: /, size: 45277310
+pp: /zlpmfh/, size: 3413627
+pp: /zlpmfh/jhqqbqb/, size: 149539
+command: dir nzzlwdd
+
+pp: , size: 45433518
+pp: /, size: 45433518
+pp: /zlpmfh/, size: 3569835
+pp: /zlpmfh/jhqqbqb/, size: 305747
+command: 223923 sbjbw.shv
+
+pp: , size: 45433518
+pp: /, size: 45433518
+pp: /zlpmfh/, size: 3569835
+pp: /zlpmfh/jhqqbqb/, size: 305747
+command: $ cd mbqc
+
+dir_len: 4, subdir: mbqc/
+command: $ ls
+
+command: 11260 lcgnzwcn.pvp
+
+pp: , size: 45657441
+pp: /, size: 45657441
+pp: /zlpmfh/, size: 3793758
+pp: /zlpmfh/jhqqbqb/, size: 529670
+pp: /zlpmfh/jhqqbqb/mbqc/, size: 0
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd nzzlwdd
+
+dir_len: 7, subdir: nzzlwdd/
+command: $ ls
+
+command: 29180 qzgsswr.tcq
+
+pp: , size: 45668701
+pp: /, size: 45668701
+pp: /zlpmfh/, size: 3805018
+pp: /zlpmfh/jhqqbqb/, size: 540930
+pp: /zlpmfh/jhqqbqb/nzzlwdd/, size: 0
+command: 232156 zlpmfh.jls
+
+pp: , size: 45697881
+pp: /, size: 45697881
+pp: /zlpmfh/, size: 3834198
+pp: /zlpmfh/jhqqbqb/, size: 570110
+pp: /zlpmfh/jhqqbqb/nzzlwdd/, size: 29180
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd ..
+
+dir_len: 2, subdir: ../
+here
+command: $ cd zmj
+
+dir_len: 3, subdir: zmj/
+command: $ ls
+
+command: 160097 fgt.tfr
+pp: , size: 45930037
+pp: /, size: 45930037
+pp: /zlpmfh/, size: 4066354
+pp: /zlpmfh/zmj/, size: 0
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/qzgsswr/ is: 155632
+size of /gwlwp/hzpsts/dsqsfqv/ is: 221801
+size of /phschqg/zlpmfh/qzgsswr/ is: 22625
+size of /gwlwp/mnw/fwdwq/lddgc/ is: 367343
+size of /gwlwp/lmmpmghg/fwdwq/dzfmw/ is: 2049329
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/zflfcnw/ is: 183836
+size of /gwlwp/dwcrnbj/zhvn/lgmfhnq/ is: 303154
+size of /fmfnpm/zlpmfh/ is: 189296
+size of /hchp/lvws/ is: 210229
+size of /phschqg/zlpmfh/ is: 59988
+size of /hchp/zlpmfh/vdtv/ is: 40808
+size of /gwlwp/dwcrnbj/lgbglc/ is: 1409518
+size of /gwlwp/qzgsswr/fwdwq/njm/ is: 66868
+size of /gwlwp/lmmpmghg/trtpbbs/ is: 317463
+size of / is: 46090134
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/hhnf/ is: 391960
+size of /gwlwp/hzpsts/fszpc/ is: 900193
+size of /zlpmfh/hdm/fwdwq/rzvtdvvz/ is: 122759
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/pstmbbv/ is: 303042
+size of /gwlwp/zlpmfh/tvzqcg/ is: 37360
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/ is: 1398393
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/hpj/spqljpnt/ is: 332077
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/dspbm/fng/ is: 47261
+size of /gwlwp/lmmpmghg/zlpmfh/ is: 312349
+size of /zlpmfh/hdm/fwdwq/mvqtp/dhp/ is: 132445
+size of /fmfnpm/wrzcjwc/mjp/ is: 458712
+size of /gwlwp/jzwpjtf/ is: 46687
+size of /zlpmfh/jhqqbqb/mbqc/ is: 11260
+size of /zlpmfh/hdm/fwdwq/ is: 1353138
+size of /gwlwp/qzgsswr/ is: 1807872
+size of /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/ is: 581423
+size of /hchp/zlpmfh/vdtv/fdrv/ is: 40808
+size of /zlpmfh/czb/ is: 280990
+size of /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/ is: 1122126
+size of /zlpmfh/jhqqbqb/ is: 802266
+size of /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/mbqw/ is: 501277
+size of /gwlwp/dwcrnbj/zhvn/gswvch/ is: 353453
+size of /gwlwp/lmmpmghg/fwdwq/qzgsswr/ is: 1041841
+size of /nsphznf/ is: 840825
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/cdb/ is: 449332
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/llb/ is: 370866
+size of /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/qzgsswr/ is: 25030
+size of /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/mbqw/stmb/ is: 164954
+size of /gwlwp/lmmpmghg/ is: 5521360
+size of /gwlwp/mnw/vbplht/zlpmfh/ is: 844230
+size of /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/sps/ is: 152609
+size of /gwlwp/dwcrnbj/zhvn/ is: 1475940
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/hpj/ is: 332077
+size of /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/ is: 1972054
+size of /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fzb/ is: 99140
+size of /fmfnpm/wrzcjwc/lddhdslh/gzj/ is: 155330
+size of /gwlwp/lmmpmghg/fwdwq/ is: 4722180
+size of /gwlwp/fmfnpm/fzb/fzb/gwtslbr/ is: 224479
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/hhnf/cpzrh/ is: 391960
+size of /gwlwp/mnw/zgrwvc/prmrv/ is: 546353
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/ is: 8371831
+size of /fmfnpm/ is: 2943317
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/ssqj/gffp/ is: 34212
+size of /gwlwp/mnw/vbplht/zlpmfh/dqszzbs/ is: 140899
+size of /zlpmfh/hdm/fwdwq/vjppb/qzgsswr/ is: 205580
+size of /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/fwdwq/ is: 445795
+size of /fmfnpm/fgtqvq/ is: 618418
+size of /fmfnpm/wrzcjwc/ is: 1510785
+size of /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/bpt/ is: 788622
+size of /fmfnpm/rvnwwfq/ is: 76914
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/rgvvmf/zhldtfj/ is: 248448
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/qth/ is: 155353
+size of /gwlwp/mnw/zqlqrjgr/cjmhdr/ is: 145967
+size of /gwlwp/zlpmfh/ is: 771315
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/fwdwq/ is: 793408
+size of /gwlwp/zlpmfh/dfgz/ncrggngr/fwdwq/ is: 369807
+size of /fmfnpm/wrzcjwc/lddhdslh/ is: 448360
+size of /hchp/zvb/cnsddwlg/ is: 452597
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/ is: 3667333
+size of /gwlwp/hzpsts/fszpc/nndsvglm/qzgsswr/ is: 313591
+size of /hchp/ is: 1690923
+size of /hchp/zlpmfh/ is: 40808
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/rgvvmf/ is: 248448
+size of /gwlwp/mnw/ is: 4975816
+size of /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/ is: 672028
+size of /gwlwp/fmfnpm/fzb/fzb/ is: 224479
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/ is: 1862423
+size of /zlpmfh/jhqqbqb/nzzlwdd/ is: 261336
+size of /gwlwp/fwdwq/ztf/vrj/ is: 206568
+size of /wchdqb/ is: 377908
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qjfwzdn/ is: 124990
+size of /gwlwp/fmfnpm/svtswb/ is: 562303
+size of /gwlwp/fmfnpm/fzb/ is: 224479
+size of /gwlwp/hzpsts/vrhcvmn/ is: 363400
+size of /gwlwp/hzpsts/fszpc/lrtsfgg/qhph/ is: 71851
+size of /gwlwp/lmmpmghg/fwdwq/fmfnpm/ is: 306459
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/dbppcf/ is: 72276
+size of /gwlwp/mnw/zqlqrjgr/ is: 162226
+size of /gwlwp/hzpsts/fszpc/nndsvglm/ is: 318800
+size of /gwlwp/fwdwq/qbhn/ppcqqtlj/ is: 39010
+size of /gwlwp/fwdwq/qbhn/hgdgbrw/ is: 606720
+size of /gwlwp/mnw/fwdwq/dpnhgsf/ is: 89773
+size of /gwlwp/qzgsswr/fwdwq/gmthth/ is: 713250
+size of /gwlwp/hzpsts/fwdwq/ is: 134971
+size of /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/pfzsg/ is: 485020
+size of /gwlwp/fwdwq/qbhn/jlztdcl/ is: 2512954
+size of /gwlwp/dwcrnbj/lgbglc/qdpjss/ is: 151905
+size of /gwlwp/hzrq/ is: 561652
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/ is: 1221797
+size of /nsphznf/zldbdl/ is: 401102
+size of /gwlwp/mnw/fwdwq/ is: 2712783
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/llb/fmfnpm/ is: 266355
+size of /gwlwp/fwdwq/ztf/vrj/jqmcczl/ is: 153695
+size of /hchp/zvb/ is: 702911
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/rqbmzrh/ is: 202692
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/chptwpbh/ is: 527884
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/ is: 879480
+size of /gwlwp/fwdwq/ztf/ is: 206568
+size of /gwlwp/fwdwq/hjfpn/ is: 202865
+size of /gwlwp/zlpmfh/dfgz/ is: 571999
+size of /fmfnpm/wrzcjwc/lddhdslh/gzj/qzgsswr/ is: 155330
+size of /gwlwp/dwcrnbj/jbtfslcn/ is: 195255
+size of /gwlwp/dwcrnbj/sbffqq/ is: 29842
+size of /gwlwp/dwcrnbj/zhvn/clpcg/ is: 299295
+size of /zlpmfh/hdm/fwdwq/vjppb/ is: 784393
+size of /gwlwp/lmmpmghg/fwdwq/dzfmw/fwdwq/zlpmfh/ is: 248119
+size of /gwlwp/mnw/vbplht/ is: 1332239
+size of /gwlwp/fwdwq/ is: 13779132
+size of /gwlwp/hzpsts/vrhcvmn/zrnsdljf/ is: 120643
+size of /gwlwp/fwdwq/hjfpn/tfdt/ is: 202865
+size of /zlpmfh/hdm/fwdwq/mvqtp/ is: 132445
+size of /gwlwp/dwcrnbj/zhvn/gswvch/mdrlrtl/ is: 154648
+size of /gwlwp/fwdwq/ztf/vrj/fmfnpm/ is: 52873
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/fwdwq/ is: 271069
+size of /gwlwp/lmmpmghg/snqlc/ is: 169368
+size of /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/ is: 1584820
+size of /gwlwp/zlpmfh/dfgz/ncrggngr/ is: 369807
+size of /gwlwp/fmfnpm/svtswb/msfd/ is: 86195
+size of /gwlwp/qzgsswr/fwdwq/tslpnb/ is: 268158
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/fzb/ is: 505037
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/ is: 6400111
+size of /gwlwp/mnw/fwdwq/cgtmbm/dcw/ is: 1154519
+size of /zlpmfh/hdm/fwdwq/ggc/ is: 313541
+size of /gwlwp/mnw/zgrwvc/ is: 768568
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/mjjcsbcn/ is: 22117
+size of /gwlwp/fwdwq/qbhn/jlztdcl/fwdwq/fmrmm/sps/sphjrrvc/ is: 152609
+size of /gwlwp/mnw/fwdwq/cgtmbm/dcw/nrg/ is: 32393
+size of /gwlwp/mnw/fwdwq/qzgsswr/ is: 571629
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/fwdwq/ is: 321251
+size of  is: 46090134
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/rbjpbm/trtgj/ is: 538658
+size of /zlpmfh/hdm/ is: 2983098
+size of /gwlwp/fmfnpm/ is: 1389190
+size of /gwlwp/hzrq/vqt/ is: 256937
+size of /fmfnpm/wrzcjwc/fwdwq/ is: 120795
+size of /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/fzb/ is: 116263
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/qzgsswr/vqtnpbn/ is: 605581
+size of /gwlwp/mnw/fwdwq/cgtmbm/fwdwq/ is: 63350
+size of /gwlwp/fwdwq/qbhn/ is: 3473086
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/vhstcbnf/fcpwqj/ is: 75022
+size of /hchp/jlcsc/pqdwdtm/ is: 545567
+size of /hchp/zvb/csdz/qzgsswr/ is: 250314
+size of /gwlwp/hzpsts/fszpc/lrtsfgg/ is: 581393
+size of /gwlwp/zlpmfh/fmfnpm/ is: 90482
+size of /gwlwp/lmmpmghg/snqlc/ztsc/ is: 169368
+size of /zlpmfh/hdm/frbhzrg/ is: 415379
+size of /hchp/zvb/cnsddwlg/tcjhhh/ is: 452365
+size of /hchp/jlcsc/ is: 545567
+size of /gwlwp/fwdwq/qbnfrhdn/fwdwq/qzgsswr/hwnmf/dspbm/ is: 204158
+size of /gwlwp/hzpsts/ is: 1671883
+size of /gwlwp/fmfnpm/svtswb/fmfnpm/ is: 318326
+size of /gwlwp/dwcrnbj/ is: 3732950
+size of /zlpmfh/ is: 4226451
+size of /gwlwp/qzgsswr/fwdwq/ is: 1169504
+size of /gwlwp/fwdwq/qbhn/hgdgbrw/nbl/czpfqbp/ is: 135628
+size of /gwlwp/lmmpmghg/fwdwq/qgdjz/ssqj/ is: 34212
+size of /spfwthmd/ is: 294499
+size of /gwlwp/dwcrnbj/zhvn/gswvch/fzb/qzgsswr/ is: 198805
+size of /gwlwp/mnw/fwdwq/cgtmbm/dcw/mdqq/wvtjplcj/ is: 82449
+size of /gwlwp/qzgsswr/fzb/ is: 332952
+size of /zlpmfh/zmj/ is: 160097
+size of /gwlwp/fwdwq/qbnfrhdn/ is: 8921709
+size of /gwlwp/ is: 34257857
+size of /phschqg/ is: 514694
+size of /gwlwp/dwcrnbj/zhvn/gswvch/fzb/ is: 198805
+size of /gwlwp/mnw/fwdwq/cgtmbm/ is: 1654533
+size of /hchp/zvb/csdz/ is: 250314

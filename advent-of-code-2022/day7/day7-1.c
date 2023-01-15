@@ -4,14 +4,20 @@
 #include <glib.h>
 
 #define BUFFER_SIZE 4096
+#define INPUT_FILE "day7-input.txt"
 
 struct dir {
     char* dir_path; 
     size_t dir_size; 
 };
 
-char* get_full_path(GList* parts){
+/*
+Print the path represented by the GList parts.
+max < g_list_length(parts) means to return the partial path 
+max subdirectories down from the root.*/
+char* get_full_path(GList* parts, int max){
     int length = g_list_length(parts);
+    length = length >= max ? max : length;
     int path_length = 0;
     for(int i=0; i < length; i++){
         path_length += strlen(g_list_nth_data(parts, i));
@@ -26,8 +32,12 @@ char* get_full_path(GList* parts){
     return full_path;
 }
 
+static void print_size(gpointer key, gpointer value, gpointer user_data){
+    printf("size of %s is: %ld\n", (char *)key, (long)value);
+}
+
 int main(){
-    char* filename = "test-input.txt";
+    char* filename = INPUT_FILE;
     FILE* input_file = fopen(filename,"r");
     char line[BUFFER_SIZE];
 
@@ -53,24 +63,43 @@ int main(){
                     continue;
                 }
                 if(!strcmp(dir, "../")){
-                    path_parts = g_list_remove(path_parts, g_list_last(path_parts));
+                    printf("here\n");
+                    path_parts = g_list_remove(path_parts, g_list_last(path_parts) -> data);
                 } 
                 //move to this directory
                 else { 
                     path_parts = g_list_append(path_parts, dir);
-                    printf("current path: %s\n", get_full_path(path_parts));
+                    //printf("current path: %s\n", get_full_path(path_parts, BUFFER_SIZE));
                 }
+                //free(dir);
             } 
             listing = line[2] == 'l';
         } 
         else if(listing){
             long size = strtol(line, NULL, 10);
-            printf("size: %ld\n", size);
-            g_hash_table_lookup()
+            //printf("size: %ld\n", size);
+            char* dir_path = get_full_path(path_parts, BUFFER_SIZE);
+            //add to listing size for all parents of this path too.. 
+            int length = g_list_length(path_parts);
+            for(int i=0; i < length; i++){
+                char* partial_path = get_full_path(path_parts, i);
+                printf("pp: %s, size: ", partial_path);
+                long dir_size = (long) g_hash_table_lookup(dir_sizes, partial_path);
+                printf("%ld\n", dir_size);
+                g_hash_table_insert(dir_sizes, partial_path, dir_size + size);
+                //free(partial_path);
+            }
+            //and then add to this path. 
+            printf("pp: %s, size: ", dir_path);
+            long dir_size = (long) g_hash_table_lookup(dir_sizes, dir_path);
+            printf("%ld\n", dir_size);
+            g_hash_table_insert(dir_sizes, dir_path, dir_size + size);
+            //free(dir_path);
         }
     }
-    g_hash_table_destroy(dir_sizes);
+    g_hash_table_foreach(dir_sizes, print_size, NULL);
 
+    g_hash_table_destroy(dir_sizes);
     return 0;
    
 }
