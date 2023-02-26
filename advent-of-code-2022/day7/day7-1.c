@@ -34,6 +34,9 @@ char* get_full_path(GList* parts, int max){
     return full_path;
 }
 
+/*
+Print and accumulate the total size of all directories sized < 100000.
+*/
 static void print_size(gpointer key, gpointer value, gpointer user_data){
     long val = (long)value;
     if(val > 0 && val <= 100000){
