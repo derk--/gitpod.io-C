@@ -6,7 +6,12 @@
 #define BUFFER_SIZE 32768
 #define INPUT_FILE "day7-input.txt"
 
+struct dir {
+    char* dir_path; 
+    size_t dir_size; 
+};
 static int total_size = 0;
+
 
 /*
 Print the path represented by the GList parts.
@@ -20,6 +25,7 @@ char* get_full_path(GList* parts, int max){
     for(int i=0; i < length; i++){
         path_length += strlen(g_list_nth_data(parts, i));
     }
+    printf("path_length: %d\n",path_length);
     char* full_path = (char *)malloc(sizeof(*full_path) * (path_length + 1));
     for(int i=0; i < length; i++){
         char* part = g_list_nth_data(parts, i);
@@ -28,12 +34,7 @@ char* get_full_path(GList* parts, int max){
     return full_path;
 }
 
-/*
-Print the size of the directory (key) with value (value) from the hashtable.
-This function does not take the hashtable, just its key and value to print.
-Only print if size is > 0 and < 10000.
-*/
-static void print_size(void* key, void* value, void* user_data){
+static void print_size(gpointer key, gpointer value, gpointer user_data){
     long val = (long)value;
     if(val > 0 && val <= 100000){
         printf("size of %s is: %ld\n", (gchar*)key, val);
@@ -52,7 +53,7 @@ int main(){
 
     gboolean listing = FALSE;
     while(fgets(line, BUFFER_SIZE, input_file)){
-        //printf("command: %s\n", line);
+        printf("command: %s\n", line);
         if(line[0] == '$'){
             listing = FALSE;
             //if this is a directory change: 
@@ -62,23 +63,26 @@ int main(){
                 strncpy(dir, &line[5], dir_len);
                 dir[dir_len] = '/';
                 dir[dir_len+1] = '\0';
+                printf("subdir: %s\n", dir);
                 //if the change is to the parent of cwd:
                 if(!strcmp(dir, "//")){ 
                     continue;
                 }
                 if(!strcmp(dir, "../")){
+                    printf("here\n");
                     path_parts = g_list_remove(path_parts, g_list_last(path_parts) -> data);
                 } 
                 //move to this directory
                 else { 
                     path_parts = g_list_append(path_parts, dir);
                 }
+                printf("current path: %s\n", get_full_path(path_parts, BUFFER_SIZE));
             } 
             listing = line[2] == 'l';
         } 
         else if(listing){
             long size = strtol(line, NULL, 10);
-            //add to listing size this path and all parents. 
+            //add to listing size for this and all parents of this path. 
             GList* copy_of_path_parts = g_list_copy_deep(path_parts, NULL, NULL);
             do {
                 char* dir_path = get_full_path(copy_of_path_parts, BUFFER_SIZE);
@@ -91,6 +95,8 @@ int main(){
     }
     g_hash_table_foreach(dir_sizes, print_size, NULL);
     printf("Solution: %d\n", total_size);
+
+
     g_hash_table_destroy(dir_sizes);
     return 0;
    
