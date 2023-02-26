@@ -5,9 +5,10 @@
 
 #define BUFFER_SIZE 32768
 #define INPUT_FILE "day7-input.txt"
+#define DISK_SIZE 70000000
+#define UPDATE_SIZE 30000000
 
-static int total_size = 0;
-
+static long del_dir_size = DISK_SIZE;
 
 /*
 Print the path represented by the GList parts.
@@ -31,13 +32,16 @@ char* get_full_path(GList* parts, int max){
 }
 
 /*
-Print and accumulate the total size of all directories sized < 100000.
+This is called in the hashtable foreach. Check the size (value) of the directory (key), 
+and determine if it is over the space required. if it is, and the size is smaller than 
+the smallest such directory seen so far, save the size. 
 */
-static void print_size(gpointer key, gpointer value, gpointer user_data){
-    long val = (long)value;
-    if(val > 0 && val <= 100000){
-        printf("size of %s is: %ld\n", (gchar*)key, val);
-        total_size += val;
+static void size_check(gpointer key, gpointer value, gpointer user_data){
+    long dir_size = (long)value;
+    long space_needed = (long)user_data;
+
+    if(dir_size > space_needed && dir_size <= del_dir_size){
+        del_dir_size = dir_size;
     }
 }
 
@@ -92,9 +96,15 @@ int main(){
             g_list_free_full(copy_of_path_parts, NULL);
         }
     }
-    g_hash_table_foreach(dir_sizes, print_size, NULL);
-    printf("Solution: %d\n", total_size);
+    long total_size = (long)g_hash_table_lookup(dir_sizes, "/");
 
+    printf("Total Used Space:\t %ld\n", total_size);
+    printf("Available Space:\t %ld\n", DISK_SIZE-total_size);
+    void* space_needed = (void*)UPDATE_SIZE-(DISK_SIZE-total_size);
+    printf("Space Required:\t\t %ld\n", (long)space_needed);
+
+    g_hash_table_foreach(dir_sizes, size_check, space_needed);
+    printf("Solution:\t\t %ld\n ", del_dir_size);
 
     g_hash_table_destroy(dir_sizes);
     return 0;
