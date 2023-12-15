@@ -12,12 +12,19 @@ void replace_semi(char* string){
     }
 }
 
+void clear_buffer(char* buf){
+    for(int i = 0; i < MAX_LINE_SIZE; i++){
+        buf[i] = 0;
+    }
+}
+
 int game_plausible(char* string, int max_red, int max_green, int max_blue){
     //game, red, green, blue
     //Game 1: 3 blue, 4 red; 1 red, 2 green, 6 blue; 2 green
 
     replace_semi(string);
     printf("%s", string);
+    char color_buffer[MAX_LINE_SIZE];
 
     //get the game number
     char* cur_str_ptr = strchr(string, ':');
@@ -30,30 +37,36 @@ int game_plausible(char* string, int max_red, int max_green, int max_blue){
     
     while(cur_str_ptr){
 
-        char* eos = strchr(cur_str_ptr, '\0');
-        printf("%s", *eos);
-        char* val_ptr = strchr(cur_str_ptr, ' '); 
-        printf("%s", cur_str_ptr);
-
-        char val_buffer[val_ptr - cur_str_ptr];
-        strncpy(val_buffer, cur_str_ptr, val_ptr - cur_str_ptr);
-
-        int val = strtol(val_buffer, NULL, 10);
-        printf("%d\n", val);
-        cur_str_ptr = val_ptr;
         printf("Now cur_str_ptr: %s", cur_str_ptr);
 
-        char* color_ptr = strchr(cur_str_ptr, ',');
-        char color_buffer[color_ptr - cur_str_ptr];
-        strncpy(color_buffer, cur_str_ptr+1, color_ptr - cur_str_ptr); 
 
-        printf("%s\n", color_buffer);
-        if((color_buffer[0] == 'r' && val > max_red)   ||
-        (color_buffer[0] == 'g' && val > max_green) ||
-        (color_buffer[0] == 'b' && val > max_blue)  ){
-            return 0;
+        char* val_ptr = strchr(cur_str_ptr, ' '); 
+        char val_buffer[val_ptr - cur_str_ptr];
+        strncpy(val_buffer, cur_str_ptr, val_ptr - cur_str_ptr);
+        int val = strtol(val_buffer, NULL, 10);
+        printf("%d\n", val);
+
+        clear_buffer(color_buffer);
+        char* color_ptr = 0;
+        int i =0; 
+        while(*cur_str_ptr != '\0'){
+            color_buffer[i] = *cur_str_ptr;
+            cur_str_ptr = cur_str_ptr + 1;
+            if(*cur_str_ptr == ','){
+                color_ptr = cur_str_ptr;
+                break;
+            }
+            i++;
+        } 
+        if(color_ptr){
+            printf("%s\n", color_buffer);
+            if((color_buffer[0] == 'r' && val > max_red)   ||
+            (color_buffer[0] == 'g' && val > max_green) ||
+            (color_buffer[0] == 'b' && val > max_blue)  ){
+                return 0;
+            }
+            cur_str_ptr = color_ptr + 2;
         }
-        cur_str_ptr = color_ptr + 2;
     }
     return game_num;
 }
