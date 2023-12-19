@@ -18,8 +18,13 @@ void clear_buffer(char* buf, int size){
     }
 }
 
-int game_plausible(char* string, int max_red, int max_green, int max_blue){
+// the game power is the product of the minimum number of 
+// each color needed to have played the listed game. 
+int game_power(char* string, int max_red, int max_green, int max_blue){
     //game, red, green, blue
+    int min_red = 0;
+    int min_green = 0; 
+    int min_blue = 0;
 
     replace_semi(string);
     printf("%s", string);
@@ -57,27 +62,29 @@ int game_plausible(char* string, int max_red, int max_green, int max_blue){
             i++;
         } 
         if(color_buffer[0] != '\0'){
-            if((color_buffer[0] == 'r' && val > max_red)   ||
-            (color_buffer[0] == 'g' && val > max_green) ||
-            (color_buffer[0] == 'b' && val > max_blue)  ){
-                return 0;
-            }
+            if(color_buffer[0] == 'r' && val > min_red) 
+                min_red = val;
+            if(color_buffer[0] == 'g' && val > min_green)
+                min_green = val;
+            if(color_buffer[0] == 'b' && val > min_blue)
+                min_blue = val;
+        
             if(color_ptr)
                 cur_str_ptr = color_ptr + 2;
         }
     }
-    return game_num;
+    return min_red * min_green * min_blue;
 }
 
 int main(){
     FILE* input_file = fopen("/workspace/gitpod.io-C/advent-of-code-2023/day2/day2-input.txt", "r");
     char line[MAX_LINE_SIZE];
     int sum = 0;
-    int game_ok = -1;
+    int game_p = -1;
     while(fgets(line, MAX_LINE_SIZE, input_file)){
-        game_ok = game_plausible(line, 12, 13, 14); 
-        printf("--> %d\n", game_ok);
-        sum += game_ok;
+        game_p = game_power(line, 12, 13, 14); 
+        printf("--> %d\n", game_p);
+        sum += game_p;
         printf("Solution: %d\n", sum);
 
     }
