@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug",
-            "type": "lldb-mi",
+            "type": "gdb",
             "request": "launch",
-            "target": "./out",
+            "name": "debug C",
+            "target": "./advent-of-code-2023/day2/day2",
             "cwd": "${workspaceRoot}",
             "valuesFormatting": "parseText"
         }
