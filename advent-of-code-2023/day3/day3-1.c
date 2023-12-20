@@ -12,8 +12,8 @@ void null_buf(char* buf){
     }
 }
 
-int is_valid(int row_idx, int col_start, int col_end, char schematic[DIM][DIM]){
-    int ret = 1;
+int is_valid(int row_idx, int digit, int col_start, int col_end, char schematic[DIM][DIM]){
+    int i=0;
     char area[BUF_MAX]; 
     null_buf(area);
 
@@ -43,14 +43,14 @@ int is_valid(int row_idx, int col_start, int col_end, char schematic[DIM][DIM]){
     //scan area buffer to see if there are no symbols.
     char test[BUF_MAX];
     null_buf(test);
-    for(int k =0; k <= i; k++){
-        test[i] = '*';
+    for(int k =0; k < i; k++){
+        test[k] = '.';
     }
     if(strcmp(test, area)){
         //the area is different; the number is adjacent to a symbol.
-        return strtol();
+        return digit;
     }
-    return 1;
+    return 0;
 }
 
 int scan_line(int row_idx, char schematic[DIM][DIM]){
@@ -67,7 +67,7 @@ int scan_line(int row_idx, char schematic[DIM][DIM]){
     while(j < DIM){
         char cur = line[j];
         if(isdigit(cur)){
-            digit_buf[buf_i] = cur;
+            digit_buf[buf_i++] = cur;
             digit_start = digit_start < 0 ? j : digit_start;
         }
         //@ a character. 
@@ -76,14 +76,17 @@ int scan_line(int row_idx, char schematic[DIM][DIM]){
         }
         if(digit_start > -1 && digit_end > -1){
             //check if digit is valid. 
-            line_val += is_valid(row_idx, digit_start, digit_end, schematic);
-            //reset digit_start and end. 
+            int digit = strtol(digit_buf, NULL, 10);
+            line_val += is_valid(row_idx, digit, digit_start, digit_end, schematic);
+            //reset digit_start and end, and the buffer
             digit_start = -1;
             digit_end = -1;
+            null_buf(digit_buf);
+            buf_i = 0;
         }
         j++;
     }
-    return line_val
+    return line_val;
 }
 
 
@@ -91,17 +94,20 @@ int main(){
 
     char schematic[DIM][DIM];
     char row[BUF_MAX];
+    int solution = 0;
 
-    FILE* input_file = fopen("day3-input.txt", "r");
+    FILE* input_file = fopen("/workspace/gitpod.io-C/advent-of-code-2023/day3/day3-input.txt", "r");
     int i = 0;
     while(fgets(row, BUF_MAX, input_file)){
-        
         for(int j=0; j < DIM; j++){
             schematic[i][j] = row[j];
         }
-        scan_line(i, schematic);
         i++;
     }
+    for(int i=0; i < DIM; i++){
+        solution += scan_line(i, schematic);
+    }
+    printf("\n Solution: %d\n", solution);
 
     return 0;
 }
