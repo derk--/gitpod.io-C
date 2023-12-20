@@ -29,9 +29,9 @@ int is_valid(int row_idx, int digit, int col_start, int col_end, char schematic[
     if(col_end < DIM-1){
         area[i++] = schematic[row_idx][col_end + 1];
         if(row_idx > 0)
-             area[i++] = schematic[row_idx - 1][col_start + 1];
+             area[i++] = schematic[row_idx - 1][col_end + 1];
         if(row_idx < DIM-1)
-            area[i++] = schematic[row_idx + 1][col_start + 1];
+            area[i++] = schematic[row_idx + 1][col_end + 1];
     }
     /* now check top and bottom.*/
     for(int j=col_start; j <= col_end; j++){
@@ -63,7 +63,7 @@ int scan_line(int row_idx, char schematic[DIM][DIM]){
     int line_val = 0;
     
     null_buf(digit_buf);
-    printf("%s\n", line);
+    //printf("%s\n", line);
     while(j < DIM){
         char cur = line[j];
         if(isdigit(cur)){
@@ -105,7 +105,9 @@ int main(){
         i++;
     }
     for(int i=0; i < DIM; i++){
-        solution += scan_line(i, schematic);
+        int line_val = scan_line(i, schematic);
+        printf("Line: %d - %d\n", i, line_val);
+        solution += line_val;
     }
     printf("\n Solution: %d\n", solution);
 
