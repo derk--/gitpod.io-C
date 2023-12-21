@@ -64,7 +64,7 @@ int scan_line(int row_idx, char schematic[DIM][DIM]){
     
     null_buf(digit_buf);
     //printf("%s\n", line);
-    while(j < DIM){
+    while(j <= DIM){ //need to check past last column to catch digit @ end of line
         char cur = line[j];
         if(isdigit(cur)){
             digit_buf[buf_i++] = cur;
@@ -108,8 +108,10 @@ int main(){
         int line_val = scan_line(i, schematic);
         printf("Line: %d - %d\n", i, line_val);
         solution += line_val;
+        printf("Solution: %d\n", solution);
+
     }
-    printf("\n Solution: %d\n", solution);
+    printf("\nSolution: %d\n", solution);
 
     return 0;
 }
